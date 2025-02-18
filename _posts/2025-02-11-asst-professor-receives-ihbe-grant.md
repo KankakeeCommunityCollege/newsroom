@@ -1,7 +1,7 @@
 ---
 title: Asst. professor receives IBHE grant
 date: 2025-02-11 15:56:33 -0600
-expire_date: 2025-03-11 00:00:00 -0500
+expire_date: 2025-03-12 00:00:00 -0500
 image: /uploads/2023/christinasosnowski-580x725.jpg
 news_image_alt: KCC assistant professor Christina Sosnowski
 article_lead: Congratulations, Christina Sosnowski!
