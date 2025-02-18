@@ -1,7 +1,7 @@
 ---
-title: Asst. professor receives IHBE grant
+title: Asst. professor receives IBHE grant
 date: 2025-02-11 15:56:33 -0600
-expire_date: 2025-03-11 00:00:00 -0500
+expire_date: 2025-03-12 00:00:00 -0500
 image: /uploads/2023/christinasosnowski-580x725.jpg
 news_image_alt: KCC assistant professor Christina Sosnowski
 article_lead: Congratulations, Christina Sosnowski!
@@ -21,7 +21,7 @@ Resources from these experiences will aid Sosnowski as she pursues a Psychiatric
 
 At KCC, Sosnowski teaches medical-surgical courses for first and fourth-semester nursing students, as well as mental health, which includes student clinicals.
 
-“I am so honored to receive this award,” Sosnowski said. “I am very grateful for everyone's hard work on this team that made this possible.”
+“I am so honored to receive this award,” Sosnowski said. “I am very grateful for everyone’s hard work on this team that made this possible.”
 
 Jennifer Rogers, director of KCC’s nursing programs, nominated Sosnowski for the grant.
 
