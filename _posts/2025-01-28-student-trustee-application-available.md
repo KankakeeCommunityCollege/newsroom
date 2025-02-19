@@ -14,6 +14,6 @@ press_release: false
 
 The KCC Student Trustee application for the 2025-26 school year is now available.
 
-Students interested in the position can use the [application link](https://form.jotform.com/200476436597161 "Student Trustee application"){: target="_blank" rel="noopener"} to apply until Mar. 7. The student chosen will receive a $5,000 scholarship for the 2025-26 school year!
+Students interested in the position can use the [application link](https://form.jotform.com/200476436597161 "Student Trustee application"){: target="_blank" rel="noopener"} to apply until March 7. The student chosen will receive a $5,000 scholarship for the 2025-26 school year!
 
 For more information, contact Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu "Email Maurice Sullivan"){: target="_blank" rel="noopener"}.
