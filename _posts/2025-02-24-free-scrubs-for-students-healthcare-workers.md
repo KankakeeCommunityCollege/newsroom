@@ -4,7 +4,7 @@ date: 2025-02-24 15:16:00 -0600
 expire_date: 2025-03-05 00:00:00 -0600
 image: /uploads/2023/superheronurse-580x673.jpg
 news_image_alt: A healthcare worker wearing scrubs and a superhero cape
-article_lead: Cavaliers Closet will open March 3-5
+article_lead: Cavaliers Closet open March 3-5
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
