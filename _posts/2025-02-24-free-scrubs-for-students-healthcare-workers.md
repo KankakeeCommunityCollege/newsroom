@@ -1,5 +1,5 @@
 ---
-title: Free scrubs for students & healthcare workers!
+title: Free clothes event
 date: 2025-02-24 15:16:00 -0600
 expire_date: 2025-03-05 00:00:00 -0600
 image: /uploads/2023/superheronurse-580x673.jpg
@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-“Not all superheroes wear capes, some of them wear scrubs.” Filson Thomas
+*Not all superheroes wear capes, some of them wear scrubs.* - Filson Thomas
 
 Attention Health Careers Students!
 
