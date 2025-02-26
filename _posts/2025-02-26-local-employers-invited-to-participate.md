@@ -1,10 +1,10 @@
 ---
-title: Local employers invited to participate
+title: Local employers invited to Job Fair
 date: 2025-02-26 13:39:50 -0600
 expire_date: 2025-04-12 00:00:00 -0500
 image: /uploads/2023/jobfair2025-580x625.jpg
-news_image_alt: Silhouette of people
-article_lead: Spring Job Fair at KCC April 17
+news_image_alt: Silhouette of business people
+article_lead: Hiring event April 17
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
