@@ -16,7 +16,7 @@ Kankakee Community College will sponsor a Job Fair from 10 a.m.-2 p.m. on Thursd
 
 Booths are available, free of charge, for area businesses to participate. The reservation deadline is April 11. Employers can register at [www.kcc.edu/jobfair](http://www.kcc.edu/jobfair).
 
-“Today more than ever, a job fair is a fantastic way for employers and job seekers to make a face-to-face connection,” said Cesar Avalos, coordinator of workforce opportunities at KCC. “It is an opportunity for our students and our community to secure employment leads. It’s where employers can have a conversation with real people, rather than resumes."
+“Today more than ever, a job fair is a fantastic way for employers and job seekers to make a face-to-face connection,” said Cesar Avalos, coordinator of workforce opportunities at KCC. “It is an opportunity for our students and our community to secure employment leads. It’s where employers can have a conversation with real people, rather than resumes.”
 
 The Job Fair is sponsored by KCC’s Charlton Family Foundation Career Services Center.
 
