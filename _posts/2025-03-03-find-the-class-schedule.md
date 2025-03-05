@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Here’s helpful information for students and community members getting ready to register for Summer and Fall 2025 courses.
+To register for Summer and Fall 2025 at KCC, here’s helpful information for students and community members.
 
 * **Summer 2025**
   * Registration begins online for qualified students on March 17. Open registration begins March 24.
