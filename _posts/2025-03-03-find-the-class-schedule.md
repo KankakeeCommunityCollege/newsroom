@@ -1,7 +1,7 @@
 ---
 title: Get ready for Summer & Fall 2025
 date: 2025-03-03 13:28:49 -0600
-expire_date: 2025-03-03 13:28:49 -0600
+expire_date: 2025-08-15 00:00:00 -0500
 image: /uploads/2023/christopher-garcia-z91-5151-373x580.jpg
 news_image_alt: KCC student Christopher Garcia
 article_lead: Here's helpful registration information
