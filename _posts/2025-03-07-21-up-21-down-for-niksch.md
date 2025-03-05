@@ -23,6 +23,6 @@ Accolades have followed:
 
 * One of Nicksch’s teammates [captured the final out](pic.x.com/yCkLADoXPN "Final out recorded"){: target="_blank" rel="noopener"} so the pitcher could post it to X.
 
-“QUOTE from Bryce”
+"I am extremely proud of Peyton and all his accomplishments," said Bryce Shafer, KCC's head baseball coach. "Throwing a perfect game is one of the rarest feats in sports, and witnessing it was truly special. While this is an incredible individual achievement, it wouldn’t have been possible without the strong defense behind him and the support of his teammates. Peyton’s work ethic and dedication continue to impress me every day. This moment is a testament to the hard work of our entire team, especially our pitching staff and defense, who have been outstanding so far this season."
 
 The Cavaliers have an 8-1 record. Next, they play in Hillsboro, Missouri, with two games against Jefferson College. The team has its home opener Tuesday, March 11 at 3 p.m. against Waubonsee Community College. All home games can be streamed live. Visit [athletics.kcc.edu](https://athletics.kcc.edu/ "athletics.kcc.edu") for more schedule and streaming information.
