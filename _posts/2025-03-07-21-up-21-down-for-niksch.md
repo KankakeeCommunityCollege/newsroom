@@ -25,4 +25,4 @@ Accolades have followed:
 
 “QUOTE from Bryce”
 
-The Cavaliers currently have an 8-1 record. Next, they play in Hillsboro, Missouri, with two games against Jefferson College. The team has its home opener Tuesday, March 11 at 3 p.m. against Waubonsee Community College. All home games can be streamed live. Visit [athletics.kcc.edu](https://athletics.kcc.edu/ "athletics.kcc.edu") for more schedule and streaming information.
+The Cavaliers have an 8-1 record. Next, they play in Hillsboro, Missouri, with two games against Jefferson College. The team has its home opener Tuesday, March 11 at 3 p.m. against Waubonsee Community College. All home games can be streamed live. Visit [athletics.kcc.edu](https://athletics.kcc.edu/ "athletics.kcc.edu") for more schedule and streaming information.
