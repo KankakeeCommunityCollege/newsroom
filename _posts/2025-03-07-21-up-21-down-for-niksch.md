@@ -15,14 +15,14 @@ In 7 innings, Niksch struck out 16 Olney Central College batters. The only other
 
 Accolades have followed:
 
-* Niksch was named NJCAA national Pitcher of the Week on March 5
-* High praise from [The JBB](https://thejbb.substack.com/p/the-jbb-week-6-honors-pres-by-flatground "The JBB"){: target="_blank" rel="noopener"}, Junior College Baseball blog: “Peyton Niksch (Kankakee) (Purdue Commit) - Niksch authored a perfect game masterpiece: 7 IP, 0 H, 0 BB, 16 Ks. His 16 strikeouts in a flawless outing is the stuff of legend, leaving hitters utterly helpless.”
+* Niksch was named [NJCAA DII Pitcher of the Week](https://x.com/NJCAABaseball/status/1897346373328232732 "NJCAA Pitcher of the Week"){: target="_blank" rel="noopener"} on March 5.
+* On [The JBB](https://thejbb.substack.com/p/the-jbb-week-6-honors-pres-by-flatground "The JBB"){: target="_blank" rel="noopener"}, Junior College Baseball blog: “Peyton Niksch (Kankakee) (Purdue Commit) - Niksch authored a perfect game masterpiece: 7 IP, 0 H, 0 BB, 16 Ks. His 16 strikeouts in a flawless outing is the stuff of legend, leaving hitters utterly helpless.”
 * Recognition from Mountain Dew Park, in Marion, where the game occurred. It was the first perfect game at the college-level or higher at the stadium.
 
 ![Mtn Dew Park &quot;Huge congratulatioins to Kankakee CC's Peyton Niksch for making history by pitiching the first perfect game ever at the college level or higher at Mountain Dew Park! This incredible achievement occurred during a game on Sunday night, March 2nd, in game 2 of a doubleheader against Olney Central College! Congratulations Peyton!](/uploads/2023/mtn-dew-park-pniksch-500x599.jpg "Mtn Dew Park social post"){: width="500" height="599"}
 
 * One of Nicksch’s teammates [captured the final out](pic.x.com/yCkLADoXPN "Final out recorded"){: target="_blank" rel="noopener"} so the pitcher could post it to X.
 
-"I am extremely proud of Peyton and all his accomplishments," said Bryce Shafer, KCC's head baseball coach. "Throwing a perfect game is one of the rarest feats in sports, and witnessing it was truly special. While this is an incredible individual achievement, it wouldn’t have been possible without the strong defense behind him and the support of his teammates. Peyton’s work ethic and dedication continue to impress me every day. This moment is a testament to the hard work of our entire team, especially our pitching staff and defense, who have been outstanding so far this season."
+“I am extremely proud of Peyton and all his accomplishments,” said Bryce Shafer, KCC’s head baseball coach. “Throwing a perfect game is one of the rarest feats in sports, and witnessing it was truly special. While this is an incredible individual achievement, it wouldn’t have been possible without the strong defense behind him and the support of his teammates. Peyton’s work ethic and dedication continue to impress me every day. This moment is a testament to the hard work of our entire team, especially our pitching staff and defense, who have been outstanding so far this season.”
 
 The Cavaliers have an 8-1 record. Next, they play in Hillsboro, Missouri, with two games against Jefferson College. The team has its home opener Tuesday, March 11 at 3 p.m. against Waubonsee Community College. All home games can be streamed live. Visit [athletics.kcc.edu](https://athletics.kcc.edu/ "athletics.kcc.edu") for more schedule and streaming information.
