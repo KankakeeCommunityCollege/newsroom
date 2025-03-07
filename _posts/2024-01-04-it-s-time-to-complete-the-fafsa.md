@@ -18,8 +18,8 @@ Here are helpful links and some additional information.&nbsp;
 **FAFSA - Free Application for Federal Student Aid**
 
 * FAFSA is in a "soft launch" phase. You can read what that means [here](https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2023-12-15/2024-25-fafsa-soft-launch-details-and-timelines-updated-jan-4-2024){: target="_blank" rel="noopener"}.&nbsp;
-* A summary and video about FAFSA changes for 2024-25 is on the [KCC website](https://www.kcc.edu/tuition-and-aid/financial-aid/?utm_medium=newsroom&amp;utm_campaign=available-fafsa-24-25){: target="_blank" rel="noopener"}.&nbsp;
-* Get details on [upcoming FAFSA workshops](https://www.kcc.edu/tuition-and-aid/financial-aid/?utm_medium=newsroom&amp;utm_campaign=available-fafsa-24-25#financial-aid-workshops){: target="_blank" rel="noopener"} offered by KCC. They are FREE, and you can fill out the FAFSA on the spot!&nbsp;
+* A summary and video about FAFSA changes for 2024-25 is on the [KCC website](https://www.kcc.edu/tuition-and-aid/financial-aid/){: target="_blank" rel="noopener"}.&nbsp;
+* Get details on [upcoming FAFSA workshops](https://www.kcc.edu/tuition-and-aid/financial-aid/#financial-aid-workshops){: target="_blank" rel="noopener"} offered by KCC. They are FREE, and you can fill out the FAFSA on the spot!&nbsp;
 
 **For Returning Monetary Assistance Program (MAP) recipients:**
 
