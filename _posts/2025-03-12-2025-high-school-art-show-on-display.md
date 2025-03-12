@@ -22,6 +22,6 @@ A reception, awards presentation and juror’s critique will be on Wednesday, Ma
 
 High schools participating in the exhibit are Bradley-Bourbonnais Community High School, Grace Christian Academy, Grant Park High School, Herscher High School, Iroquois West High School, Manteno High School, Momence High School, Pontiac Township High School and Watseka Community High School.
 
-The exhibit is sponsored by KCC's Visual Arts Department.
+The exhibit is sponsored by KCC’s Visual Arts Department.
 
 KCC is located at 100 College Drive in Kankakee.
