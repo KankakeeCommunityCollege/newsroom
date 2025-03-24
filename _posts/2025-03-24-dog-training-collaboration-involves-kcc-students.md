@@ -1,12 +1,12 @@
 ---
-title: Dog training collaboration involves KCC students
+title: Dog training collaboration
 date: 2025-03-24 08:31:00 -0500
 expire_date: 2025-04-18 00:00:00 -0500
 image: /uploads/2023/dog-training-class-580x795.jpg
 news_image_alt: >-
   Service Dog training class - trainer with two students.Add descriptive text
   for the post's image
-article_lead: Psychology principles benefit participants
+article_lead: Psychology principles benefit students
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
