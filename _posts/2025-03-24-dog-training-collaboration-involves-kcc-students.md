@@ -17,7 +17,7 @@ Kankakee Community College Professor Cari Stevenson, Ph.D., recently had an arti
 
 Titled “Bridging Communities: A Collaborative Program in a Community College,” the article highlights the partnership between KCC and a nonprofit service dog training organization. The partnership includes KCC students who apply behavioral psychology principles while helping train service dogs for veterans with PTSD.
 
-As a result, there is hands-on learning for students; socialization for the puppies; and a sense of purpose for veterans, who serve as role models. The initiative also lead to a new KCC class, [PSYC 2623, Learning and Conditioning](https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/courses/psyc-psychology/psyc-2623/ "PSYC 2623 Learning and Conditioning"){: target="_blank" rel="noopener"}.
+As a result, there is hands-on learning for students; socialization for the puppies; and a sense of purpose for veterans, who serve as role models. The initiative also led to a new KCC class, [PSYC 2623, Learning and Conditioning](https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/courses/psyc-psychology/psyc-2623/ "PSYC 2623 Learning and Conditioning"){: target="_blank" rel="noopener"}.
 
 ![Psychology dog training Kayla Adams with two dogs](/uploads/2023/psychology-dog-training-kayla-adams-300x404.jpg "Psychology-dog-training-Kayla Adams"){: width="300" height="404"} The full article can be read on the [SPSSI website](https://www.spssi.org/index.cfm?fuseaction=page.viewPage&amp;pageID=3007&amp;nodeID=1# "SPSSI website"){: target="_blank" rel="noopener"}.
 
