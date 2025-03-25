@@ -16,13 +16,13 @@ The Lifelong Learning Institute at Kankakee Community College will have a 10<sup
 
 The free event is for people ages 50 and older. Registration and information about other spring and summer Lifelong Learning Institute classes will be available.
 
-The main event for the celebration will be "Movie Music Memories 3" session for all participants, featuring John LeGear.
+The main event for the celebration will be “Movie Music Memories 3” session for all participants, featuring John LeGear.
 
 A free lunch is also offered for those who reserve on or before April 4. To register, phone 815-802-8206 or go to [www.kcc.edu/lli](http://www.kcc.edu/lli) &gt; sign up or login &gt; find and select the course &gt; click on the date and add it to your cart. In the cart, add yourself as an attendee and checkout.
 
 Although lunch reservations are required, no reservation is needed to participate in other Lifelong Learning anniversary celebration activities April 11.
 
-Participants will also have options to take part in a resource fair, learn more about upcoming classes, or visit a "Hidden in Plain Sight" trailer.
+Participants will also have options to take part in a resource fair, learn more about upcoming classes, or visit a “Hidden in Plain Sight” trailer.
 
 [The Lifelong Learning Institute](https://continuinged.kcc.edu/){: target="_blank" rel="noopener"} at KCC offers affordable, high-quality, non-credit classes to people ages 50 and older. Sessions take place in an environment that fosters participation.
 
