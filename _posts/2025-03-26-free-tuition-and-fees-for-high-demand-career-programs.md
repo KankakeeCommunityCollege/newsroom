@@ -1,6 +1,6 @@
 ---
 title: Free tuition and fees for high-demand career programs
-date: 2025-03-26 16:14:00 -0500
+date: 2025-03-26 10:00:00 -0500
 expire_date: 2025-05-31 00:00:00 -0500
 image: /uploads/2023/healthcareers-580x700.jpg
 news_image_alt: KCC students in the Health Careers program
