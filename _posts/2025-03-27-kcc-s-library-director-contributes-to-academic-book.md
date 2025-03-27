@@ -1,6 +1,6 @@
 ---
 title: KCC's library director contributes to academic book
-date: 2025-03-27 17:24:00 -0500
+date: 2025-03-27 10:15:00 -0500
 expire_date: 2025-05-31 00:00:00 -0500
 image: /uploads/2023/tracyconnerbook-580x720.jpg
 news_image_alt: >-
