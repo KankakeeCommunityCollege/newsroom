@@ -34,7 +34,7 @@ Programs eligible for funding include:
 
 “People often ask, ‘What’s the catch?’” said Purcell. “The process is simple, students complete an initial form and apply for financial aid. Even if they don’t qualify for financial aid, they’re still considered for grant funding.”
 
-KCC’s financial aid team is available to help students navigate the process. Current and prospective students can learn more at [https://skills.kcc.edu](https://skills.kcc.edu). The Free Application for Federal Student Aid can be found at [https://studentaid.gov](https://studentaid.gov). Students can also apply for KCC Foundation scholarships at [www.kcc.edu/scholarships](http://www.kcc.edu/scholarships "http://www.kcc.edu/scholarships").
+KCC’s financial aid team is available to help students navigate the process. Current and prospective students can learn more at [https://skills.kcc.edu](https://skills.kcc.edu). The Free Application for Federal Student Aid can be found at [https://studentaid.gov](https://studentaid.gov). Students can also apply for KCC Foundation scholarships at [www.kcc.edu/scholarships](https://foundation.kcc.edu/scholarships/ "http://www.kcc.edu/scholarships").
 
 ![KCC students in the Automotive Technology program](/uploads/2023/automotive-technology450x300.jpg "KCC students in the Automotive Technology program"){: width="450" height="300"}
 {: .center-this-text}
