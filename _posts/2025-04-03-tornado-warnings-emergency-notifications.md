@@ -4,7 +4,7 @@ date: 2025-04-03 16:47:00 -0500
 expire_date: 2025-08-31 00:00:00 -0500
 image: /uploads/2023/tornado-580x769.png
 news_image_alt: Illustration of a tornado
-article_lead: Stay informed and safe!
+article_lead: Stay informed this storm season
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
