@@ -4,7 +4,7 @@ date: 2025-04-08 10:50:19 -0500
 expire_date: 2025-04-17 00:00:00 -0500
 image: /uploads/2022/jobfair-580x517.jpg
 news_image_alt: A group of people from various job fields
-article_lead: Job fair April 17
+article_lead: 'Job Fair: Thursday, April 17'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -22,5 +22,3 @@ An employer registration form and list of participating employers is at [www.kcc
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee.
 
 The Job Fair is sponsored by KCC’s Charlton Family Foundation Career Services Center.
-
-Members of the media are invited to attend the event. Photographs will be welcome.
