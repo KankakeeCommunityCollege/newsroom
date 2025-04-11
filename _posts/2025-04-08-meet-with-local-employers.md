@@ -1,7 +1,7 @@
 ---
 title: Meet with local employers
 date: 2025-04-08 10:50:19 -0500
-expire_date: 2025-04-17 00:00:00 -0500
+expire_date: 2025-04-18 00:00:00 -0500
 image: /uploads/2022/jobfair-580x517.jpg
 news_image_alt: A group of people from various job fields
 article_lead: 'Job Fair: Thursday, April 17'
@@ -17,7 +17,7 @@ The event is open to the public and veterans are encouraged to attend. Admission
 
 More than 60 employers are expected to attend. KCC’s Career Services Center offers resume assistance before the job fair.
 
-An employer registration form and list of participating employers is at [www.kcc.edu/jobfair](www.kcc.edu/jobfair "KCC Spring Job Fair"){: target="_blank" rel="noopener"}.
+An employer registration form and list of participating employers is at [www.kcc.edu/jobfair](https://www.kcc.edu/student-resources/career-services/job-fairs/?utm_medium=newssite&amp;utm_campaign=sp25jfair "KCC Job Fair"){: target="_blank" rel="noopener"}.
 
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee.
 
