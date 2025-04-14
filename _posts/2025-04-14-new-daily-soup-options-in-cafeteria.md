@@ -20,6 +20,6 @@ KCC’s cafeteria will now feature regularly-scheduled soups of the day:
 * **Thursday:** Lasagna
 * **Friday:** Chef’s Choice
 
-The cafeteria is open 8 a.m. - 3 p.m. Monday - Thursday and 9 a.m. - 1 p.m. Friday (when campus is open).
+The cafeteria is open 8 a.m. - 3 p.m. Monday - Thursday and 9 a.m. - 1 p.m. Fridays (when campus is open).
 
 &nbsp;
