@@ -12,13 +12,13 @@ press_release: false
 ![Graphic showing a list of daily soup selections](/uploads/2023/soupsoftheday-750x400.jpg "Graphic showing a list of daily soup selections"){: width="750" height="450"}
 {: .center-this-text}
 
-KCC's cafeteria will now feature regularly-scheduled soups of the day:
+KCC’s cafeteria will now feature regularly-scheduled soups of the day:
 
 * **Monday:** Cream of Chicken and Rice
 * **Tuesday:** Cheesy Broccoli
 * **Wednesday:** Chicken Noodle
 * **Thursday:** Lasagna
-* **Friday:** Chef's Choice
+* **Friday:** Chef’s Choice
 
 The cafeteria is open 8 a.m. - 3 p.m. Monday - Thursday and 9 a.m. - 1 p.m. Friday (when campus is open).
 
