@@ -1,7 +1,7 @@
 ---
 title: Free clothes event
 date: 2025-04-14 13:01:23 -0500
-expire_date: 2025-04-23 00:00:00 -0500
+expire_date: 2025-04-24 00:00:00 -0500
 image: /uploads/2023/cavscloset-580x700.jpg
 news_image_alt: Graphic for KCC's Cavaliers Closet
 article_lead: Cavaliers Closet open April 22-23
