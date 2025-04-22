@@ -4,7 +4,7 @@ date: 2025-04-22 10:08:14 -0500
 expire_date: 2025-05-18 00:00:00 -0500
 image: /uploads/2023/commencement2025-580x757.jpg
 news_image_alt: Image of graduation cap with "2025" tassel
-article_lead: Commencement May 17
+article_lead: Commencement is May 17
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
