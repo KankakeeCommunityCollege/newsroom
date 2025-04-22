@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Image of graduation cap with &quot;2025&quot; tassel](/uploads/2023/commencement2025-500x333.jpg "Image of graduation cap with &quot;2025&quot; tassel"){: width="500" height="333"}
+![Image of graduation cap with &quot;2025&quot; tassel](/uploads/2023/commencement2025-700x467.jpg "Image of graduation cap with &quot;2025&quot; tassel"){: width="700" height="467"}
 {: .center-this-text}
 
 More than 350 students will receive degrees and certificates at the 56th annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 17 in the George H. Ryan Gymnasium in the college’s Activities Building.
