@@ -13,7 +13,7 @@ Kankakee Community College is one of 21 small community colleges across the nati
 
 KCC has had 27 veterans enroll during the 2024-25 school year, according to the college’s Office of Financial Aid. Among these veterans, 18 are utilizing Veteran’s Administration Education benefits.
 
-“We are proud to serve veterans, and to be designated as a Military Friendly® School,” said Megan Ponton, assistant director of financial aid at KCC. “The college is dedicated to supporting veterans and active-duty military personnel, alongside their families, in their transition to higher education. We facilitate access to federal and state VA educational benefits and financial aid. We also provide comprehensive assistance tailored to individual academic, professional, and personal aspirations."
+“We are proud to serve veterans, and to be designated as a Military Friendly® School,” said Megan Ponton, assistant director of financial aid at KCC. “The college is dedicated to supporting veterans and active-duty military personnel, alongside their families, in their transition to higher education. We facilitate access to federal and state VA educational benefits and financial aid. We also provide comprehensive assistance tailored to individual academic, professional, and personal aspirations.”
 
 Throughout Illinois, there are only 13 community colleges which achieved a Military Friendly® designation this year. Community colleges were categorized as “small” or “large.” A total of 232 community colleges earned the Military Friendly designation.
 
