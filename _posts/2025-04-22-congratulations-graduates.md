@@ -12,7 +12,7 @@ press_release: false
 ![Image of graduation cap with &quot;2025&quot; tassel](/uploads/2023/commencement2025-500x333.jpg "Image of graduation cap with &quot;2025&quot; tassel"){: width="500" height="333"}
 {: .center-this-text}
 
-More than 350 students will receive degrees and certificates at the 56th annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 17 in the George H. Ryan Gymnasium in the college's Activities Building.
+More than 350 students will receive degrees and certificates at the 56th annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 17 in the George H. Ryan Gymnasium in the college’s Activities Building.
 
 The speaker at KCC’s ceremony will be Melvina Calvin-Edwards, Ed.D. Calvin-Edwards is a sergeant on the Kankakee Police Department and assistant professor/program coordinator of Law Enforcement and ![Dr. Melvina Calvin-Edwards](/uploads/2023/drmelvinacalvinedwards-300x400.jpg "Dr. Melvina Calvin-Edwards"){: width="300" height="400"}Criminal Justice programs at KCC. Passionate about providing students with a hands-on, immersive learning experience in law enforcement, Calvin-Edwards has 19 years of experience as an instructor at KCC and as a police officer. After attending KCC, Calvin-Edwards earned a bachelor’s degree from Olivet Nazarene University in Bourbonnais; a master’s degree from Governors State University in University Park; and a doctorate from Olivet Nazarene University.
 
@@ -22,7 +22,7 @@ Sherry Kinzler, will be recognized as the Outstanding Part-Time Faculty Member. 
 
 Charli Palmateer will be honored as a member of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. Palmateer is earning an Associate in Arts degree and will ![Charli Palmateer](/uploads/2023/charlipalmateer-300x375.jpg "Charli Palmateer"){: width="300" height="375"}transfer to Governors State University.
 
-The recipient of the John M. Fulton Distinguished Alumni Award is Yamei Rohlfs, who earned a GED from KCC and an associate degree in YEAR. Rohlfs then earned a bachelor's degree in healthcare administration at Western Governors University; and a master's degree, from the same university. Rohlfs is an intake case management supervisor for Banyan Treatment Center. Her family hosts international students and works to place other students with host families. Rohlfs also serves as an alderwoman in her community.![Yamei Rohlfs](/uploads/2023/yameirohlfs-300x400.jpg "Yamei Rohlfs"){: width="300" height="400"}
+The recipient of the John M. Fulton Distinguished Alumni Award is Yamei Rohlfs, who earned a GED from KCC and an associate degree in YEAR. Rohlfs then earned a bachelor’s degree in healthcare administration at Western Governors University; and a master’s degree, from the same university. Rohlfs is an intake case management supervisor for Banyan Treatment Center. Her family hosts international students and works to place other students with host families. Rohlfs also serves as an alderwoman in her community.![Yamei Rohlfs](/uploads/2023/yameirohlfs-300x400.jpg "Yamei Rohlfs"){: width="300" height="400"}
 
 The ceremony will stream live on [commencement.kcc.edu](https://commencement.kcc.edu). Social media users can use \#KCCgrad2025 to congratulate graduates.
 
