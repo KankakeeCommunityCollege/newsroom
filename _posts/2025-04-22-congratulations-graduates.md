@@ -28,7 +28,7 @@ Charli Palmateer will be honored as a member of the All-Illinois Academic Team, 
 ![L-R: Charli Palmateer and Yamei Rohlfs](/uploads/2023/charlipalmateer-yameirohlfs.jpg "L-R: Charli Palmateer and Yamei Rohlfs"){: width="650" height="425"}
 {: .center-this-text}
 
-The recipient of the John M. Fulton Distinguished Alumni Award is Yamei Rohlfs, who earned a GED from KCC and an associate degree in YEAR. Rohlfs then earned a bachelor’s degree in healthcare administration at Western Governors University; and a master’s degree, from the same university. Rohlfs is an intake case management supervisor for Banyan Treatment Center. Her family hosts international students and works to place other students with host families. Rohlfs also serves as an alderwoman in her community.
+The recipient of the John M. Fulton Distinguished Alumni Award is Yamei Rohlfs, who earned a GED from KCC and an associate degree in 2019. Rohlfs then earned a bachelor’s degree in healthcare administration at Western Governors University; and a master’s degree, from the same university. Rohlfs is an intake case management supervisor for Banyan Treatment Center. Her family hosts international students and works to place other students with host families. Rohlfs also serves as an alderwoman in her community.
 
 The ceremony will stream live on [commencement.kcc.edu](https://commencement.kcc.edu). Social media users can use \#KCCgrad2025 to congratulate graduates.
 
