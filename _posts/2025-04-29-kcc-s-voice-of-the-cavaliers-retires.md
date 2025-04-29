@@ -2,7 +2,7 @@
 title: KCC's "Voice of the Cavaliers" retires
 date: 2025-04-29 16:30:47 -0500
 expire_date: 2025-05-31 00:00:00 -0500
-image: /uploads/2023/roycordesretirement-580x722.jpg
+image: /uploads/2023/roycordes-580x775.jpg
 news_image_alt: >-
   Roy Cordes speaks at his retirement reception on 4/28/25 after receiving a
   microphone trophy
