@@ -34,7 +34,7 @@ According to Military Friendly, methodology, criteria, and weightings were deter
 
 The 2025-26 Military Friendly® Schools list will be published in the May and October issue of G.I. Jobs magazine and can be found at [MilitaryFriendly.com/schools](http://www.militaryfriendly.com/schools/).
 
-More information about KCC’s educational benefits for military veterans, spouses and dependents, is at [www.kcc.edu/veterans](http://www.kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), email [finaid@kcc.edu](mailto:finaid@kcc.edu), or phone 815-802-8550.
+More information about KCC’s educational benefits for military veterans, spouses and dependents, is at [www.kcc.edu/veterans](https://www.kcc.edu/admissions/veterans/). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), email [finaid@kcc.edu](mailto:finaid@kcc.edu), or phone 815-802-8550.
 
 (The graduate photo above is Mary Pruitt of Kankakee, at KCC’s 2024 commencement ceremony. Pruitt, a veteran who served in the U.S. Army, was a member of the KCC Veterans Association.)
 
