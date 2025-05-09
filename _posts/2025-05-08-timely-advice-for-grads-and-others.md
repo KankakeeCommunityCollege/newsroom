@@ -1,7 +1,7 @@
 ---
 title: Timely advice for grads ... and others
 date: 2025-05-08 17:12:36 -0500
-expire_date: 2025-06-08 00:00:00 -0500
+expire_date: 2025-06-27 00:00:00 -0500
 image: /uploads/2023/gradsavings-580x750.jpg
 news_image_alt: An image of a graduation cap on top of cash
 article_lead: Check out this resource guide
