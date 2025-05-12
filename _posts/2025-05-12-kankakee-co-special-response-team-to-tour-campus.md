@@ -1,5 +1,5 @@
 ---
-title: Kankakee Co. Special Response Team to Tour Campus
+title: Kankakee Co. Special Response Team to Tour KCC
 date: 2025-05-12 15:10:40 -0500
 expire_date: 2025-05-15 00:00:00 -0500
 image: /uploads/2023/fyi-580x700.jpg
