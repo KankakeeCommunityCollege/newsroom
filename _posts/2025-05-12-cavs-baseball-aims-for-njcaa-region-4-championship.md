@@ -31,4 +31,4 @@ Sunday, May 18 is the rain date.
 
 The winning team goes on to [NJCAA DII Baseball World Series](https://www.njcaa.org/national_championship/schedules/2024-25_links/BSB_DII) May 24-30/31, 2025 at David Allen Memorial Ballpark in Enid, Oklahoma.
 
-**Good luck to our Cavs as they go for the championship!**
+Good luck to our Cavs as they go for the championship!
