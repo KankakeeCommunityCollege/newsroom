@@ -1,10 +1,10 @@
 ---
-title: Cavs Baseball aims for NJCAA Region 4 Championship
+title: Baseball heads to Region 4 Championship
 date: 2025-05-12 15:55:24 -0500
 expire_date: 2025-05-18 00:00:00 -0500
 image: /uploads/2023/baseball-2025-404x580.jpg
 news_image_alt: KCC Cavaliers Baseball logo
-article_lead: Let's go Cavs!
+article_lead: Go Cavs!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -31,4 +31,4 @@ Sunday, May 18 is the rain date.
 
 The winning team goes on to [NJCAA DII Baseball World Series](https://www.njcaa.org/national_championship/schedules/2024-25_links/BSB_DII) May 24-30/31, 2025 at David Allen Memorial Ballpark in Enid, Oklahoma.
 
-Good luck to our Cavs as they go for the championship!
+Good luck to the Cavs as they go for the championship!
