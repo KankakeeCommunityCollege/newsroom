@@ -29,4 +29,4 @@ press_release: false
 
 Sunday, May 18 is reserved as a rain date.
 
-**Good luck to our Cavs as they go for the championship!**
+Good luck to our Cavs as they go for the championship!
