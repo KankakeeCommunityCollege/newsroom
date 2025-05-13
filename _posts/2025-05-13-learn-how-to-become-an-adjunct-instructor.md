@@ -15,7 +15,7 @@ Adjunct instructors are part-time faculty members who teaches college courses on
 
 “Being an adjunct instructor offers a unique opportunity to share your expertise while making a direct impact on students’ lives,” said Dr. Quincy Rose Sewell, KCC’s vice president for academic affairs. “It’s a meaningful and rewarding way to stay connected to your profession while helping learners grow and achieve their goals.”
 
-The session will use Zoom. It is open to the public at [bit.ly/KCCadjunct525](bit.ly/KCCadjunct525). No reservation is required.
+The session will use Zoom. It is open to the public at [bit.ly/KCCadjunct525](){: target="_blank" rel="noopener"}. No reservation is required.
 
 Topics will include what is involved in being an adjunct instructor, how to be considered for a position, and tips for submitting the application. Participants will be able to speak with KCC’s academic deans about current openings.
 
