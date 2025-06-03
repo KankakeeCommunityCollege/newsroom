@@ -1,5 +1,5 @@
 ---
-title: Spring 2025 President's List Announced
+title: Spring 2025 President's List
 date: 2025-06-03 12:35:09 -0500
 expire_date: 2025-07-04 00:00:00 -0500
 image: /uploads/2022/presidentslist.png
