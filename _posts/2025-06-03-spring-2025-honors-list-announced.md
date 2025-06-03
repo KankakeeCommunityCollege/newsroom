@@ -1,5 +1,5 @@
 ---
-title: Spring 2025 Honors List Announced
+title: Spring 2025 Honors List
 date: 2025-06-03 12:18:41 -0500
 expire_date: 2025-07-04 00:00:00 -0500
 image: /uploads/2022/honorslist.png
@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The following students have been named to the Honors List at Kankakee Community College for the Spring 2025 term.
+The following students have been named to the Honors List at Kankakee Community College for the Spring 2025 semester.
 
 To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
 
