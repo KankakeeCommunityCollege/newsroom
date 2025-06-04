@@ -1,7 +1,7 @@
 ---
 title: Attend an Explore KCC Day
 date: 2025-06-04 16:12:58 -0500
-expire_date: 2025-06-04 16:12:58 -0500
+expire_date: 2025-07-10 00:00:00 -0500
 image: /uploads/2022/explore-kcc-day-newsroom-oct-22.jpg
 news_image_alt: Explore KCC Day
 article_lead: Tours and information available
