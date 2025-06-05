@@ -1,5 +1,5 @@
 ---
-title: Attend an Explore KCC Day
+title: Explore KCC Day is July 9
 date: 2025-06-04 16:12:58 -0500
 expire_date: 2025-07-10 00:00:00 -0500
 image: /uploads/2022/explore-kcc-day-newsroom-oct-22.jpg
