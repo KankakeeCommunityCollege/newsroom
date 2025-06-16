@@ -14,7 +14,7 @@ Cali Olshefski, a 2025 graduate of the registered nursing program at Kankakee Co
 ![Spring 2025 DAISY Award® recipient Cali Olshefski](/uploads/2023/caliolshefski-350x417.jpg "Spring 2025 DAISY Award® recipient Cali Olshefski"){: width="350" height="317"}
 {: .center-this-text}
 
-The annual award is part of the DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
+The annual award is part of the DAISY Foundation’s mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
 Olshefski, a Manteno resident, was chosen by a committee at KCC, and the award was presented on May 16 at the registered nursing pinning ceremony. Olshefski received a certificate, a DAISY Award pin and a sculpture called *A Healer’s Touch*, hand-carved by artists of the Shona Tribe in Zimbabwe.
 
