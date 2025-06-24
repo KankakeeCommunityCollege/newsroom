@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcc_newsroom=self.webpackChunkkcc_newsroom||[]).push([[298],{298:function(n,e,o){o.r(e),e.default=function(){window.location.href.indexOf("#contact")>-1&&setTimeout(function(){let n=window.innerHeight+3e3;window.scroll("0",n)},2e3)}}}]);
