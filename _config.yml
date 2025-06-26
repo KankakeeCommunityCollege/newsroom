@@ -8,7 +8,9 @@ google-tag_key: GTM-T37TN4S
 url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
 canonical_baseurl: "https://news.kcc.edu"
-theme: "kcc-gem-theme-original"
+theme: "kcc-gem-theme"
+theme_config: false
+core_site: false
 nav_links:
   - link_text: Home
     link_href: ''
