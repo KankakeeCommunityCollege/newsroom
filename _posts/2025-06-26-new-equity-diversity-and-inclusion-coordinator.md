@@ -2,7 +2,7 @@
 title: New equity, diversity, and inclusion coordinator
 date: 2025-06-26 17:11:10 -0500
 expire_date: 2025-07-31 00:00:00 -0500
-image: /uploads/2023/melanyvillagomez-580x775.jpg
+image: /uploads/2023/melanyvillagomez-580x650.jpg
 news_image_alt: Melany Villagomez, coordinator of equity, diversity, and inclusion at KCC
 article_lead: Meet Melany Villagomez
 video_content: false
