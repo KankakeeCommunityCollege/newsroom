@@ -1,5 +1,5 @@
 ---
-title: Live music and fireworks on July 4th
+title: Live music and fireworks on July 4
 date: 2025-06-30 12:26:08 -0500
 expire_date: 2025-07-05 00:00:00 -0500
 image: /uploads/2023/4thofjuly-580x725.jpg
