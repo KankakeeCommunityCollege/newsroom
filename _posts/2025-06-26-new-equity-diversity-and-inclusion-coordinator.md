@@ -1,5 +1,5 @@
 ---
-title: New equity, diversity, and inclusion coordinator
+title: New equity, diversity and inclusion coordinator
 date: 2025-06-26 17:11:10 -0500
 expire_date: 2025-07-31 00:00:00 -0500
 image: /uploads/2023/melanyvillagomez-580x650.jpg
@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The new coordinator of equity, diversity, and inclusion at Kankakee Community College is Melany Villagomez.
+The new coordinator of equity, diversity and inclusion at Kankakee Community College is Melany Villagomez.
 
 ![Melany Villagomez, coordinator of equity, diversity, and inclusion at KCC](/uploads/2023/melanyvillagomez-500x333.jpg "Melany Villagomez, coordinator of equity, diversity, and inclusion at KCC"){: width="500" height="333"}
 {: .center-this-text}
