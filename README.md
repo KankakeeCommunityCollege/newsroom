@@ -1,50 +1,40 @@
-# KCC Newsroom Template
+# KCC Newsroom
 
-[![Build Status](https://travis-ci.org/KankakeeCommunityCollege/newsroom.svg?branch=publish)](https://travis-ci.org/KankakeeCommunityCollege/newsroom)
-
-#### Jekyll + Webpack + Sass + Autoprefixer + BrowserSync + etc...
-
-This project's version of Ruby: `ruby-3.1.3`.
+> Jekyll + Webpack + Sass + Autoprefixer + etc...
 
 -----
 
 ## Requirements
-- RVM (<https://rvm.io/>) using ruby version 2.5.0 `$ rvm use default ruby-2.5.0`
-- Jekyll - `$ gem install jekyll`
-- Bundler - `$ gem install bundler`
-- NVM (<https://github.com/creationix/nvm>) Using Node v8.9.4 (to avoid compatibility issues):
-	- `$ nvm install 8.9.4`
-	- `$ nvm alias default 8.9.4`
-- Update Node install's Version of NPM to 6.1.0 `$ npm install -g npm@6.1.0`
-- Gulp - `$ npm install --global gulp-cli`
+- rbenv (<http://rbenv.org/>) — use ruby version specified in `.ruby-version` file.
+- NVM (<https://github.com/nvm-sh/nvm>) — use node version specified in `.nvmrc` file.
 
 ## Installation
-	$ git clone <https://github.com/KankakeeCommunityCollege/newsroom.git>
-	$ cd mewsroom
-	$ sh install.sh
+
+```bash
+git clone git@github.com:KankakeeCommunityCollege/newsroom.git
+cd newsroom
+## install gem deps like Jekyll
+bundle i
+## install npm deps
+npm i
+```
 
 ## Development
-	$ gulp
 
-## Branches
+***Do not push a development build to Github!***
 
-Master Branch - is used by CloudCannon to build a staging server
-Publish Branch - All changes to the Publish branch go live. It is updated via a merge in CloudCannon.
+```bash
+npm run development
+```
 
-To push a dev update to both branches (make sure both branches are up to date with any CloudCannon changes in Github first):
-- Develop on local Master Branch, make commits, and push to origin master.
-- checkout Publish branch, merge Master Branch (`$ git merge master`), push to publish
+Development build does ***not*** minify HTML, CSS, and JS. It ***does*** create a development JS bundle and injects inline styles into the document head (for performance).
 
 ## Production
 
-Production build minifies CSS and JavaScript and compresses image files.
+```bash
+npm run production
+```
 
-A gulp production build should be run before committing and pushing any CSS, JS, or new images to the Github repository.
+Production build minifies HTML, CSS, and JS.
 
-Trying to push non-minified CSS and JS may result in merge conflicts.  If you have a merge conflict, especially on main.css or all.min.js, try running `$ gulp --production` before trying to push again
-
-	$ gulp --production
-
-## The gulpfile.js and gulpconfig.yml
-
-See the comments within gulpfile.js and gulpconfig.yml for detailed explanation of what happens on running `$ gulp` or `$ gulp --production`
+After development, a production build should be run and the resulting production asset files pushed to Github.
