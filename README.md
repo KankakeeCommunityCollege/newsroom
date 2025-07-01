@@ -14,9 +14,9 @@
 git clone git@github.com:KankakeeCommunityCollege/newsroom.git
 cd newsroom
 ## install gem deps like Jekyll
-bundle i
+bundle install
 ## install npm deps
-npm i
+npm install
 ```
 
 ## Development
