@@ -6,11 +6,8 @@
   margin: 0;
 }
 
-.archive__link-item {
-  text-decoration: none;
-  &:visited {
-    color: $color-archive-visited;
-  }
+.archive__link-item:visited {
+  color: $color-archive-visited;
 }
 
 .archive__list {
