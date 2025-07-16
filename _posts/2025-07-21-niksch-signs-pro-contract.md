@@ -1,7 +1,7 @@
 ---
 title: Niksch signs pro contract
 date: 2025-07-21 08:58:00 -0500
-expire_date: 2025-07-16 08:58:48 -0500
+expire_date: 2025-08-15 00:00:00 -0500
 image: /uploads/2023/peyton-niksch580x924.jpg
 news_image_alt: Peyton Niksch
 article_lead: Pitcher moves on to Brewers organization
