@@ -21,6 +21,6 @@ In his sophomore season at KCC, Niksch was a 1<sup>st</sup> Team All-American in
 
 In two years at KCC, Niksch earned 16 Wins, had 178 Strikeouts and a 2.22 ERA.
 
-"I’m incredibly excited for Peyton as he begins the next chapter with the Milwaukee Brewers,” said Bryce Shafer, KCC’s baseball coach and athletic director. “He’s earned this opportunity with all the hard work, discipline, and dedication that he has shown here at KCC. Watching him chase his dream of becoming a big leaguer is something truly special, and I couldn’t be more proud of the person and player he has become. I’ll be following closely as he competes against the best in the world. This is just the beginning for him."
+“I’m incredibly excited for Peyton as he begins the next chapter with the Milwaukee Brewers,” said Bryce Shafer, KCC’s baseball coach and athletic director. “He’s earned this opportunity with all the hard work, discipline, and dedication that he has shown here at KCC. Watching him chase his dream of becoming a big leaguer is something truly special, and I couldn’t be more proud of the person and player he has become. I’ll be following closely as he competes against the best in the world. This is just the beginning for him.”
 
 Another distinction for Niksch is that he earned a 4.0 GPA at KCC, earning an Associate in Arts Transfer degree.
