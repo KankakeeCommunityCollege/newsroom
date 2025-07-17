@@ -1,5 +1,5 @@
 ---
-title: New director of Continuing Education and Business Partnerships
+title: New director of Continuing Education & Business Partnerships
 date: 2025-07-17 11:02:00 -0500
 expire_date: 2025-08-31 00:00:00 -0500
 image: /uploads/2023/melaniewhitelow-580x708.jpg
@@ -24,6 +24,6 @@ Her administrative background includes roles at Southern Illinois University; Ch
 
 Each year, about 1,500 people complete non-credit workforce training and professional development at KCC. While these seminars and workshops do not offer college credit, many—including those in health care, social services, and education—qualify for continuing education or professional development units. Other programs lead to industry-recognized credentials, such as CPR Healthcare Provider and Food Safety Manager Certification.
 
-More information about KCC’s Continuing Education and Business Partnerships options are at [https://continuinged.kcc.edu](https://continuinged.kcc.edu/).
+More information about KCC’s Continuing Education and Business Partnerships options are at [continuinged.kcc.edu](https://continuinged.kcc.edu/).
 
 Whitelow can be reached at [mwhitelow@kcc.edu](mailto:mwhitelow@kcc.edu) or 815-802-8204.
