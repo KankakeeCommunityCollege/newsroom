@@ -1,10 +1,10 @@
 ---
 title: Courses for the love of learning
 date: 2025-07-31 11:37:10 -0500
-expire_date: 2025-08-28 00:00:00 -0500
+expire_date: 2025-08-29 00:00:00 -0500
 image: /uploads/2023/lli-580x675.jpg
 news_image_alt: KCC's Lifelong Learning Institute logo
-article_lead: Fall info session for people age 50+
+article_lead: Lifelong Learning Institute Fall Kick-off
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -14,7 +14,7 @@ press_release: false
 
 Kankakee Community College will continue its celebration of 10 years of Lifelong Learning Institute programming at the fall kick-off and information session, 10 a.m. - noon Thursday, Aug. 28 in the KCC Iroquois Room.
 
-The special guest speaker Aug. 28 will be Dana Arseneau from Riverside Healthcare, presenting “Staying Safe as We Age: Why Injuries Happen and How to Prevent Them.”
+The special guest speaker Aug. 28 will be Dana Arseneau from Riverside Healthcare, presenting “Staying Safe as We Age: Why Injuries Happen & How to Prevent Them.”
 
 Registration and course information will be available. The event is free and open to the public.
 
