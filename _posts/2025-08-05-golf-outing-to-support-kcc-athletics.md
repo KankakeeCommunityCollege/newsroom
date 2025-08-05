@@ -2,7 +2,7 @@
 title: Golf outing to support KCC Athletics
 date: 2025-08-05 15:49:36 -0500
 expire_date: 2025-10-11 00:00:00 -0500
-image: /uploads/2023/athleticsgolfouting-580x700.png
+image: /uploads/2023/athleticsgolfouting-580x700-1.png
 news_image_alt: KCC Athletics Golf Outing
 article_lead: KCC Athletics Golf Outing on Oct. 11
 video_content: false
