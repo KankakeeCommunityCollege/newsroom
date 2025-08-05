@@ -37,5 +37,5 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Pembroke Township:** Melanie Aleman and Tonia Jones-Lafi.
 * **Peotone:** Andrew Morales.
 * **Watseka:** Cynthia Cross, Erica Grady and Jessica Schroeder.
-* **Decatur, Ga.:** Quesim Anderson.
-* **Kentland, Ind.:** Hayden Davidson.
+* **Decatur, Georgia:** Quesim Anderson.
+* **Kentland, Indiana:** Hayden Davidson.
