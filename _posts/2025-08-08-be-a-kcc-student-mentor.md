@@ -30,6 +30,8 @@ The process is:
 3. Get matched and get started in September!
 4. Receive support throughout the semester.
 
+Anyone with questions about the program can contact Villagomez at [mvillagomez@kcc.edu](mailto:mvillagomez@kcc.edu "email mvillagomez@kcc.edu"){: target="_blank" rel="noopener"}.
+
 &nbsp;
 
 &nbsp;
