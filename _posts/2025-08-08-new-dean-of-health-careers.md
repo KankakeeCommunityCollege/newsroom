@@ -2,8 +2,8 @@
 title: New dean of health careers
 date: 2025-08-08 11:02:03 -0500
 expire_date: 2025-09-06 00:00:00 -0500
-image: /uploads/2023/bradwood-580x825.jpg
-news_image_alt: Add descriptive text for the post's image
+image: /uploads/2023/bradwood-580x825-1.jpg
+news_image_alt: Bradley Wood
 article_lead: Meet Bradley Wood
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
