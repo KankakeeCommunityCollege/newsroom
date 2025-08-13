@@ -9,11 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-&nbsp;
+A Student Success Mentoring Program designed to empower students through meaningful mentorship connections is starting at KCC.
 
-KCC is launching a Student Success Mentoring Program, designed to empower students through meaningful mentorship connections.
-
-The first group of mentors, for the Fall 2025 semester, will be paired with KCC students
+The first group of mentors and students will be paired for the Fall 2025 semester.
 
 “This program is more than just guidance, it’s about building relationships that inspire students to persist, thrive, and graduate,” said Melany Villagomez, KCC’s coordinator of equity, diversity and inclusion. “Through regular engagement, mentors will help students strengthen their academic skills, develop leadership potential, boost self-esteem, and grow as individuals.
 
