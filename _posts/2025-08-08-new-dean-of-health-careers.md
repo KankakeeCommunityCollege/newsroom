@@ -14,7 +14,7 @@ Bradley Wood is the new dean of health careers at Kankakee Community College.
 ![Bradley Wood](/uploads/2023/bradwood-400x320.jpg "Bradley Wood"){: width="400" height="320"}
 {: .center-this-text}
 
-In this role, Wood will work with directors of each health career program on curriculum development, staffing and budgeting. KCC currently has 14 health careers programs: Coding Specialist, Exercise Science, Medical Laboratory Technology, Medical Laboratory Assistant, Phlebotomy, Practical Nursing, Registered Nursing, Certified Nursing Assistant, Paramedic, Emergency Medical Technician-Paramedic, Emergency Medical Technician-Basic, Physical Therapist Assistant, Radiography and Respiratory Therapist.
+In this role, Wood will work with directors of each health career program on curriculum development, staffing and budgeting. KCC currently has 13 health careers programs: Exercise Science, Medical Laboratory Technology, Medical Laboratory Assistant, Phlebotomy, Practical Nursing, Registered Nursing, Certified Nursing Assistant, Paramedic, Emergency Medical Technician-Paramedic, Emergency Medical Technician-Basic, Physical Therapist Assistant, Radiography and Respiratory Therapist.
 
 After beginning his career as a Physical Therapist Assistant, Wood transitioned into roles in education. He has served as professor at North Central State College in Ohio and director of the Physical Therapist Assistant program at Owens Community College in Findlay, Ohio. Most recently, Wood was dean of the Findlay Campus of Owens Community College. As the dean, Wood guided curriculum development and student success efforts, and played a key role in strategic planning, budgeting, building community partnerships, and fostering innovation in teaching and learning.
 
