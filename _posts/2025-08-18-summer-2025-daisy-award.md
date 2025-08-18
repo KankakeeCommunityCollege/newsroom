@@ -14,11 +14,11 @@ Ivy Anderson, a 2025 graduate of the licensed practical nursing program at Kanka
 ![Summer 2025 DAISY Award® recipient Ivy Anderson](/uploads/2023/ivyanderson-350x425.jpg "Summer 2025 DAISY Award® recipient Ivy Anderson"){: width="350" height="425"}
 {: .center-this-text}
 
-The award is part of The DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
+The award is part of The DAISY Foundation’s mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
 Anderson, a Kankakee resident, was chosen by a committee at KCC, and the award was presented on July 29 at the licensed practical nursing pinning ceremony. Anderson received a certificate, a DAISY Award pin and a sculpture called *A Healer’s Touch*, hand-carved by artists of the Shona Tribe in Zimbabwe.
 
-“I want to give a big recognition to a young man in the KCC nursing program,” said the patient who nominated Anderson. “I give plasma at CSL. Ivy is one of the phlebotomists there. We started talking and he was telling me that he was in the KCC nursing program. Ivy is always upbeat, he is excellent at all he does, and he is sought out by his co-workers for issues and solving problems. I always feel like I am in good hands under Ivy's care. I just wanted to share with you that this young man is extraordinary. I have no doubt that he is going to make an incredible nurse."
+“I want to give a big recognition to a young man in the KCC nursing program,” said the patient who nominated Anderson. “I give plasma at CSL. Ivy is one of the phlebotomists there. We started talking and he was telling me that he was in the KCC nursing program. Ivy is always upbeat, he is excellent at all he does, and he is sought out by his co-workers for issues and solving problems. I always feel like I am in good hands under Ivy’s care. I just wanted to share with you that this young man is extraordinary. I have no doubt that he is going to make an incredible nurse.”
 
 KCC’s practical nursing program has a competitive entry process and accepts new students each fall semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices. LPNs also can apply for advanced placement into KCC’s registered nursing program.
 
