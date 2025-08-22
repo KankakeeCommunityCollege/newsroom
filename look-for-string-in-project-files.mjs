@@ -1,14 +1,18 @@
 import { readdir, readFile } from 'node:fs';
 
-const path = './';
+const path = './_site'; // Where to look for the string in question
 const options = {
-  recursive: true
+  recursive: true // Make sure we check all folders and sub-folders
 }
 
-const htmlFileRegExp = /.+\.(html|md|markdown)$/;
-const searchRegExp = /^layout:\s.+$/gm
-// const deprecatedClassRegExp = /["\s]([pm][lr](?:-(?:sm|md|lg|xl))?-[0-5]|(?:text|float)(?:-(?:sm|md|lg|xl))?-(?:left|right)|sr-only|text-muted|close)["\s]/;
-// const deprecatedClassRegExpGlobal = /["\s]([pm][lr](?:-(?:sm|md|lg|xl))?-[0-5]|(?:text|float)(?:-(?:sm|md|lg|xl))?-(?:left|right)|sr-only|text-muted|close)["\s]/g;
+// We don't need to search all the site build's files
+const htmlFileRegExp = /.+\.(html)$/; // only search HTML files
+
+// The string we are looking for in Regular Expression format
+const stringToFindRegExp = /https:\/\/kcc\.smartcatalogiq\.com\/(?:en\/(?:2024-2025|current)|current)\/academic-catalog\/code-of-campus-affairs-and-regulations/;
+// const stringToFindRegExp = /loader\.svg/;
+// The same string we are looking for in Regular Expression format but with the global flag
+const stringToFindRegExpGlobal = new RegExp(stringToFindRegExp, 'g');
 
 console.log(`\n==== [SEARCHING in: ${path}] ====`);
 
@@ -27,10 +31,10 @@ readdir(path, options, (err, files) => {
         process.exit(1);
       }
 
-      if (data.search(searchRegExp) !== -1) {
-        const matches = data.match(searchRegExp);
+      if (data.search(stringToFindRegExp) !== -1) {
+        const classArr = data.match(stringToFindRegExpGlobal);
 
-        matches.forEach(match => console.log(`[FOUND]: "${match}" in ${file}`));
+        classArr.forEach(match => console.log(`[FOUND]: ${match} in ${file}`));
       }
     });
   });
