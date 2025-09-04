@@ -11,8 +11,8 @@ press_release: false
 ---
 ![](/uploads/2023/light-bulb-with-sustainability-icons430x200.jpg)
 
-Kankakee Community College is featured in "Leading The Eco-Charge," a recent article in *Community College Journal*.
+Kankakee Community College is featured in “Leading The Eco-Charge,” a recent article in *Community College Journal*.
 
-The college president, Dr. Michael Boyd, is quoted in the article. It also shares information about the KCC's sustainability plan and brief details about sustainability-related programs.
+The college president, Dr. Michael Boyd, is quoted in the article. It also shares information about the KCC’s sustainability plan and brief details about sustainability-related programs.
 
 Read the full article on [The Community College Journal website](https://www.ccjournal-digital.com/ccjournal/library/item/august_september_2025/4289200/ "The Community College Journal Leading the Eco-Charge"){: target="_blank" rel="noopener"}.
