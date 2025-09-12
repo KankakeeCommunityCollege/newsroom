@@ -24,7 +24,7 @@ At each event, participants will learn about KCC’s academic programs, whether 
 ![Griffen Walters of Martinton](/uploads/2023/griffenwalters-350x525.jpg "Griffen Walters of Martinton"){: width="350" height="525"}
 {: .center-this-text}
 
-To learn more and register, go to visit.kcc.edu. KCC’s campus is at 100 College Drive, Kankakee.
+To learn more and register, go to [visit.kcc.edu](https://visit.kcc.edu "visit.kcc.edu"){: target="_blank" rel="noopener"}. KCC’s campus is at 100 College Drive, Kankakee.
 
 ![Addison Speer of Bourbonnais](/uploads/2023/addisonspeer-350x233.jpg "Addison Speer of Bourbonnais"){: width="350" height="233"}
 {: .center-this-text}
