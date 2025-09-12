@@ -1,5 +1,5 @@
 ---
-title: Learn about "Chicago Latina Trailblazers"
+title: Learn about 'Chicago Latina Trailblazers'
 date: 2025-09-12 13:04:00 -0500
 expire_date: 2025-09-23 00:00:00 -0500
 image: /uploads/2023/chicagolatinatrailblazers-580x875-1.jpg
