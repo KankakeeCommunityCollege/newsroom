@@ -1,12 +1,12 @@
 ---
-title: Book presentation on Sept. 22
+title: Learn about "Chicago Latina Trailblazers"
 date: 2025-09-12 13:04:00 -0500
 expire_date: 2025-09-23 00:00:00 -0500
-image: /uploads/2023/chicagolatinatrailblazers-580x875.jpg
+image: /uploads/2023/chicagolatinatrailblazers-580x875-1.jpg
 news_image_alt: >-
   Book cover for "Chicago Latina Trailblazers: Testimonios of Political
   Activism" (2024)
-article_lead: Learn about "Chicago Latina Trailblazers"
+article_lead: Book presentation Sept. 22
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
