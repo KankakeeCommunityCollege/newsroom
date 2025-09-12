@@ -6,7 +6,7 @@ image: /uploads/2023/chicagolatinatrailblazers-580x875-1.jpg
 news_image_alt: >-
   Book cover for "Chicago Latina Trailblazers: Testimonios of Political
   Activism" (2024)
-article_lead: Presentation and book signing Sept. 22
+article_lead: Presentation at KCC Sept. 22
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
