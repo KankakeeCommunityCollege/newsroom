@@ -16,9 +16,9 @@ KCC is adding 55 new Health Career textbooks to the Lending Library collection, 
 
 These include copies of high-demand titles, newer editions of existing books, and new materials for the collection. The library is processes requests, with priority given to students.
 
-"By expanding access to course materials, this initiative helps ease the cost burden for students and supports their persistence and success," said Tracy Conner, director of KCC's library.
+“By expanding access to course materials, this initiative helps ease the cost burden for students and supports their persistence and success,” said Tracy Conner, director of KCC’s library.
 
-KCC's Retention Success Navigator, Abby Whalen, partners with students to identify needs and allocate materials.
+KCC’s Retention Success Navigator, Abby Whalen, partners with students to identify needs and allocate materials.
 
 To learn more about availability, reach out to Whalen at [awhalen@kcc.edu](){: target="_blank" rel="noopener"}.
 
