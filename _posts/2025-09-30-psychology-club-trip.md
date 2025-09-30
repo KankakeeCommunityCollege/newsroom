@@ -4,7 +4,7 @@ date: 2025-09-30 11:30:58 -0500
 expire_date: 2025-10-31 00:00:00 -0500
 image: /uploads/2023/psychclubmindworks-580x766.jpg
 news_image_alt: KCC Psychology Club members at Mindworks in Chicago
-article_lead: Recent visit made to 'Mindworks'
+article_lead: Visiting 'Mindworks'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
