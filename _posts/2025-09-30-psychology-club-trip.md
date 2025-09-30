@@ -14,6 +14,6 @@ press_release: false
 
 Over the summer, KCC Psychology Club members traveled to Chicago to [Mindworks](https://www.chicagobooth.edu/mindworks "Mindworks"){: target="_blank" rel="noopener"}, an interactive psychology museum operated by the University of Chicago. The museum features hands-on exhibits that explore how we think, perceive, and make decisions highlighting concepts like judgement, bias, and cognition in an engaging and accessible way.
 
-"In addition to the exhibits, students had the unique opportunity to participate in real research studies, allowing them to experience psychological research methods firsthand," said Cari Stevenson, Ph.D., KCC psychology professor and club adviser. "The visit sparked thoughtful conversations about human behavior and the role of science in understanding the mind, making it a valuable and memorable experience for all who attended."
+“In addition to the exhibits, students had the unique opportunity to participate in real research studies, allowing them to experience psychological research methods firsthand,” said Cari Stevenson, Ph.D., KCC psychology professor and club adviser. “The visit sparked thoughtful conversations about human behavior and the role of science in understanding the mind, making it a valuable and memorable experience for all who attended.”
 
-View more [Clubs & Organizations](https://www.kcc.edu/student-resources/student-life/clubs/ "KCC's Clubs &amp; Organizations"){: target="_blank" rel="noopener"} information on KCC's website.
+View more [Clubs & Organizations](https://www.kcc.edu/student-resources/student-life/clubs/ "KCC's Clubs &amp; Organizations"){: target="_blank" rel="noopener"} information on KCC’s website.
