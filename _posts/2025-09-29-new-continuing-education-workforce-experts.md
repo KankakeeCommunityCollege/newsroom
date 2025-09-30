@@ -1,5 +1,5 @@
 ---
-title: New Continuing Education workforce experts
+title: Continuing Ed adds two workforce experts
 date: 2025-09-29 15:55:00 -0500
 expire_date: 2025-10-31 00:00:00 -0500
 image: /uploads/2023/conedlogo-580x700.png
