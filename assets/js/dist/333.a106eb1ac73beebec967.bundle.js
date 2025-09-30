@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcc_newsroom=self.webpackChunkkcc_newsroom||[]).push([[333],{333:function(e,n){const t=document.getElementById("todaysDate");n.default=function(){const e=new Date,n=`${e.getMonth()+1}.${e.getDate()}`;t.innerText!=n&&(t.innerHTML=n)}}}]);

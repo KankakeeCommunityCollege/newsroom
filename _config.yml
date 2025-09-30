@@ -183,7 +183,7 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: Register for Classes
         href: 'https://www.kcc.edu/academics/register/'
       - text: Academic Catalog
-        href: 'https://kcc.smartcatalogiq.com/current/Academic-Catalog'
+        href: 'https://catalog.kcc.edu'
       - text: "Exam Make-ups"
         href: https://www.kcc.edu/academics/exam-makeups/
       - text: "Online Learning"
