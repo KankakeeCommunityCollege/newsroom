@@ -3,7 +3,7 @@ title: New Lending Library
 date: 2025-09-29 16:23:33 -0500
 expire_date: 2026-01-01 00:00:00 -0600
 image: /uploads/2023/lendinglibrary-580x820.jpg
-news_image_alt: Health Career textbooks in KCC's Lending Library
+news_image_alt: Health Career textbooks available in KCC's Lending Library
 article_lead: Health Career textbooks available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
