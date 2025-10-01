@@ -15,7 +15,7 @@ press_release: false
 
 Benefits include:
 
-* Academic Advising
+* Academic advising
 * College visits & cultural events
 * Transfer & financial aid support
 * Career exploration opportunities
