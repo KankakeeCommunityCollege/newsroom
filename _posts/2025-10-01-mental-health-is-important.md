@@ -1,7 +1,7 @@
 ---
 title: Mental health is important
 date: 2025-10-01 08:52:40 -0500
-expire_date: 2025-10-01 08:52:40 -0500
+expire_date: 2025-10-31 00:00:00 -0500
 image: /uploads/2023/take-what-you-need-pexels-cottonbro-580x805.jpg
 news_image_alt: 'Paper with Take what you need: love, hope, passion, courage, happiness, luck'
 article_lead: Help is available
