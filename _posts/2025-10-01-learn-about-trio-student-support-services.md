@@ -3,7 +3,7 @@ title: Learn about TRIO Student Support Services
 date: 2025-10-01 10:04:05 -0500
 expire_date: 2025-10-31 00:00:00 -0500
 image: /uploads/2023/trio-outside580x730.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC's south lawn
 article_lead: New students welcome!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -24,6 +24,6 @@ Apply today on [KCC’s TRIO program website](https://www.kcc.edu/trio?utm_mediu
 
 &nbsp;
 
-Pictured: TRIO students (left-right) Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC's south lawn; and at KCC's 2025 commencement.
+Pictured: TRIO students (left-right) Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC’s south lawn; and at KCC’s 2025 commencement.
 
 &nbsp;
