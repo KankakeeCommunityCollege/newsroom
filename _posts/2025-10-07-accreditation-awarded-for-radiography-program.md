@@ -22,9 +22,9 @@ Seeking accreditation is voluntary, and KCC received an initial three-year accre
 
 “I appreciate the contributions of KCC administrators, advisory members, community members, graduates, and students who contributed to this accomplishment,” Sherry said. “Accreditation by JRCERT is a gold standard.”
 
-The Radiography program prepares students for careers as radiographers or radiologic technologists who take high-quality images of the body's internal structures by utilizing ionizing radiation and patient positioning. Graduates work in hospitals, imaging centers, surgical centers, and various healthcare settings, said Sherry.
+The Radiography program prepares students for careers as radiographers or radiologic technologists who take high-quality images of the body’s internal structures by utilizing ionizing radiation and patient positioning. Graduates work in hospitals, imaging centers, surgical centers, and various healthcare settings, said Sherry.
 
-Radiologic technologists are the third-largest group of health care professionals (after nurses and physicians). KCC's program requires two years of full-time study, with classroom theory and clinical experiences. The program has clinical affiliations with eight Illinois hospitals and various outpatient clinics.
+Radiologic technologists are the third-largest group of health care professionals (after nurses and physicians). KCC’s program requires two years of full-time study, with classroom theory and clinical experiences. The program has clinical affiliations with eight Illinois hospitals and various outpatient clinics.
 
 The program includes radiographic physics and biology, radiation safety, patient positioning and lab procedures, anatomy and pathology, image analysis, patient care, and communication.
 
