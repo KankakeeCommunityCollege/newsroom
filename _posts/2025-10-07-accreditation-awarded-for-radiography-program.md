@@ -12,7 +12,7 @@ press_release: false
 ![KCC Radiography students](/uploads/2023/radiography-500x333.jpg "KCC Radiography students"){: width="500" height="333"}
 {: .center-this-text}
 
-Kankakee Community College’s Radiography program has been awarded initial accreditation by the Joint Review Committee on Education in Radiologic Technology.
+Kankakee Community College’s [Radiography program](https://catalog.kcc.edu/radiography/associate-of-applied-science/radiography "Radiography program"){: target="_blank" rel="noopener"} has been awarded initial accreditation by the Joint Review Committee on Education in Radiologic Technology.
 
 JRCERT is the leading accrediting agency for radiologic science education programs.
 
