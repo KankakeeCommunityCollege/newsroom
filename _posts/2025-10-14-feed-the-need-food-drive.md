@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Community Colleges Feed The Need Campus Food Drive](/uploads/2023/feedtheneed250x284.jpeg "Feed the Need logo"){: width="250" height="284" loading="lazy"}<br>Wednesday, Oct. 15 is the beginning of the second annual Feed The Need Campus Food Drive.
+![Community Colleges Feed The Need Campus Food Drive](/uploads/2023/feedtheneed250x284.jpeg "Feed the Need logo"){: width="250" height="284" loading="true"}<br>Wednesday, Oct. 15 is the beginning of the second annual Feed The Need Campus Food Drive.
 
 This initiative is to collect non-perishable food items to support students who are facing food insecurity. Your contributions can make a significant impact on their lives.
 
@@ -21,7 +21,7 @@ This initiative is to collect non-perishable food items to support students who 
 
 Please join others at KCC in this effort. Every donation counts. Your support helps create a caring community where everyone feels valued and supported.
 
-The final day for collections is Dec. 1.
+The final day for collections is Monday, Dec. 1.
 
 According to recent studies, as many as 39% of community college students nationally face food insecurity, highlighting the importance of initiatives like Feed the Need. By working together, Illinois community colleges are demonstrating their commitment to student well-being and to the communities they call home.
 
