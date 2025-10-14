@@ -2,18 +2,18 @@
 title: '''Feed The Need'' Food Drive'
 date: 2025-10-14 10:15:46 -0500
 expire_date: 2025-12-02 00:00:00 -0600
-image: /uploads/2023/feed-the-need580x659.png
-news_image_alt: Add descriptive text for the post's image
+image: /uploads/2023/feedtheneed580x659.jpeg
+news_image_alt: Community Colleges Feed The Need Campus Food Drive
 article_lead: Donate from Oct. 15-Dec. 1
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Community Colleges Feed The Need Campus Food Drive logo](/uploads/2023/feed-the-need250x284.png "Feed The Need"){: width="250" height="284" loading="lazy"}<br>Wednesday, Oct. 15 is the beginning of the second annual Feed The Need Campus Food Drive.
+![Community Colleges Feed The Need Campus Food Drive](/uploads/2023/feedtheneed250x284.jpeg "Feed the Need logo"){: width="250" height="284" loading="lazy"}<br>Wednesday, Oct. 15 is the beginning of the second annual Feed The Need Campus Food Drive.
 
 This initiative is to collect non-perishable food items to support students who are facing food insecurity. Your contributions can make a significant impact on their lives.
 
-**Drop-off Locations on KCC's Riverfront Campus:**
+**Drop-off Locations on KCC’s Riverfront Campus:**
 
 * Near the Student Life Office (Room L116)
 * Public Safety Desk
