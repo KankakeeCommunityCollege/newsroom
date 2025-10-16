@@ -11,7 +11,7 @@ press_release: false
 ---
 &nbsp;
 
-![2025 KCC graduate Fernando Orella](/uploads/2023/fernando-orella-triograd2025-kmc-9948-218x302.jpg "Fernando Orella"){: width="218" height="302"}TRIO Student Support Services at KCC is now accepting new students!
+![2025 KCC graduate Bradley Galarza](/uploads/2023/fernando-orella-triograd2025-kmc-9948-218x302.jpg "Fernando Orella"){: width="218" height="302"}TRIO Student Support Services at KCC is now accepting new students!
 
 Benefits include:
 
