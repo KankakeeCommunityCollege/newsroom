@@ -18,7 +18,7 @@ This spooky spoof brings together legendary comedians Bud Abbott and Lou Costell
 
 The event is free and open to the public, with candy and popcorn available while supplies last.
 
-“Whether you're a fan of classic horror, vintage comedy, or just looking for a fun night out, this is the perfect way to get into the Halloween spirit,” said Kenneth West, adviser of Phi Theta Kappa Honor Society, one of the event sponsors.
+“Whether you’re a fan of classic horror, vintage comedy, or just looking for a fun night out, this is the perfect way to get into the Halloween spirit,” said Kenneth West, adviser of Phi Theta Kappa Honor Society, one of the event sponsors.
 
 The screening is also sponsored by the KCC Student Affairs Department.
 
