@@ -1,10 +1,10 @@
 ---
 title: FREE Halloween movie with popcorn!
 date: 2025-10-17 15:32:58 -0500
-expire_date: 2025-10-29 00:00:00 -0500
+expire_date: 2025-10-30 00:00:00 -0500
 image: /uploads/2023/abbott-and-costello-meet-frankenstein-580x778.jpg
 news_image_alt: Poster for the 1948 film Abbott and Costello Meet Frankenstein
-article_lead: Abbott and Costello Meet Frankenstein
+article_lead: Abbott & Costello Meet Frankenstein
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
