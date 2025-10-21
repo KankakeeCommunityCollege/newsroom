@@ -13,7 +13,7 @@ press_release: false
 
 Join us for some Halloween fun and showcase your creativity and school spirit!
 
-Whether you go spooky, funny, or classic, we can't wait to see your best costume ideas!
+Whether you go spooky, funny, or classic, we can’t wait to see your best costume ideas!
 
 ## Details
 
@@ -45,15 +45,15 @@ Contest rules are:
 * Masks may only be worn during judging.
 * Weapons or weapon-like props (including toy guns, knives, or swords) are not permitted.
 * Participants must be able to move freely and safely without obstructing walkways or creating hazards.
-* Costumes must comply with KCC's Code of Conduct and Public Safety guidelines.
-* The judges' decisions are final.
+* Costumes must comply with KCC’s Code of Conduct and Public Safety guidelines.
+* The judges’ decisions are final.
 * By participating, contestants consent to photos and videos taken during the event for KCC promotional use.
 
 Costumes will be judged based on the following:
 
 * Creativity & Originality – Is the idea unique and imaginative?
 * Effort & Craftsmanship – Was time and detail clearly put into the costume?
-* Theme Relevance – Does it connect with this year's superhero or character theme?
+* Theme Relevance – Does it connect with this year’s superhero or character theme?
 * Overall Presentation – Stage presence, confidence, and fun factor!
 
 ## Prizes:
