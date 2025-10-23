@@ -14,7 +14,7 @@ press_release: false
 
 KCC is adding 55 new Health Career textbooks to the Lending Library collection, available through the Miner Memorial Library.
 
-These include copies of high-demand titles, newer editions of existing books, and new materials for the collection. The library is processes requests, with priority given to students.
+These include copies of high-demand titles, newer editions of existing books, and new materials for the collection. The library processes requests, with priority given to students.
 
 “By expanding access to course materials, this initiative helps ease the cost burden for students and supports their persistence and success,” said Tracy Conner, director of KCC’s library.
 
