@@ -11,7 +11,7 @@ press_release: false
 ---
 &nbsp;
 
-![2025 KCC graduate Fernando Orella](/uploads/2023/fernando-orella-triograd2025-kmc-9948-218x302.jpg "Fernando Orella"){: width="218" height="302"}TRIO Student Support Services at KCC is now accepting new students!
+![2025 KCC graduate Bradley Galarza](/uploads/2023/fernando-orella-triograd2025-kmc-9948-218x302.jpg "Fernando Orella"){: width="218" height="302"}TRIO Student Support Services at KCC is now accepting new students!
 
 Benefits include:
 
@@ -26,6 +26,6 @@ Apply today on [KCC’s TRIO program website](https://www.kcc.edu/trio?utm_mediu
 
 &nbsp;![Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC’s south lawn](/uploads/2023/trio-outside580x730-1.jpg "TRIO students"){: width="580" height="730"}
 
-Pictured: TRIO students (left-right) Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC’s south lawn; and Fernando Orella at KCC’s 2025 commencement.
+Pictured: TRIO students (left-right) Robyann Morris, Robert Rogers and Kaitlyn Medina on KCC’s south lawn; and Bradley Galarza at KCC’s 2025 commencement.
 
 &nbsp;
