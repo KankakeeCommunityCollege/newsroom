@@ -16,6 +16,6 @@ press_release: false
 
 Cheer with us this season at the United Center! Join KCC for a legendary group outing with the Chicago Bulls on Saturday, January 3. Tickets are available for purchase until December 7 [here](https://www.gofevo.com/event/Kankakeecommunity2 "Kankakee Community College Night"){: target="_blank" rel="noopener"}.
 
-Share the excitement of Bulls basketball and the NBA’s leading entertainment experience as the team takes on the Charlotte Hornets at 7:00 pm. Bring your friends, family, and KCC pride for an unforgettable night of action, energy, and fun!
+Share the excitement of Bulls vs. Charlotte Hornets at 7 pm. Bring your friends, family, and KCC pride for a night of action, energy and fun!
 
-Photo credits: [Fredrick Lee](https://unsplash.com/@mkaine17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Michael Jordan’s statue) and [Abhay siby Mathew](https://unsplash.com/@abhay_siby_m?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Chicago Bulls jerseys).
+Photo credits: [Fredrick Lee](https://unsplash.com/@mkaine17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (Michael Jordan statue) and [Abhay siby Mathew](https://unsplash.com/@abhay_siby_m?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (jerseys).
