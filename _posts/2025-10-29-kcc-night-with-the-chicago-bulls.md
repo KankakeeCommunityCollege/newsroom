@@ -18,4 +18,4 @@ Cheer with us this season at the United Center! Join KCC for a legendary group o
 
 Share the excitement of Bulls basketball and the NBA’s leading entertainment experience as the team takes on the Charlotte Hornets at 7:00 pm. Bring your friends, family, and KCC pride for an unforgettable night of action, energy, and fun!
 
-Photo credits: [Fredrick Lee](https://unsplash.com/@mkaine17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Michael Jordan's statue) and [Abhay siby Mathew](https://unsplash.com/@abhay_siby_m?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Chicago Bulls jerseys).
+Photo credits: [Fredrick Lee](https://unsplash.com/@mkaine17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Michael Jordan’s statue) and [Abhay siby Mathew](https://unsplash.com/@abhay_siby_m?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) (image of Chicago Bulls jerseys).
