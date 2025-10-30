@@ -183,20 +183,20 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: Register for Classes
         href: 'https://www.kcc.edu/academics/register/'
       - text: Academic Catalog
-        href: 'https://catalog.kcc.edu'
+        href: 'https://catalog.kcc.edu/'
       - text: "Exam Make-ups"
-        href: https://www.kcc.edu/academics/exam-makeups/
+        href: 'https://www.kcc.edu/academics/exam-makeups/'
       - text: "Online Learning"
-        href: https://www.kcc.edu/academics/online-learning/
+        href: 'https://www.kcc.edu/academics/online-learning/'
 ## Admissions ##
   - link_text:  Admissions
-    link_href: https://www.kcc.edu/admissions/
+    link_href: 'https://www.kcc.edu/admissions/'
     image:
       source: 'assets/img/menu-admission.jpg'
       alt: 'Smiling student inside the KCC main entrance'
     dropdown:
       - text:  Admissions Home
-        href: https://www.kcc.edu/admissions/
+        href: 'https://www.kcc.edu/admissions/'
       - text: Placement Testing
         href: 'https://www.kcc.edu/admissions/testing/'
       - text: Apply
@@ -282,7 +282,7 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: Support Resources
         href: 'https://www.kcc.edu/student-resources/support-resources/'
       - text: Student Life
-        href: https://www.kcc.edu/student-resources/student-life/
+        href: 'https://www.kcc.edu/student-resources/student-life/'
 ## Community ##
   - link_text: Community
     link_href: 'https://www.kcc.edu/community/'
@@ -303,7 +303,9 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: Workforce Services
         href: 'https://www.kcc.edu/workforceservices/'
       - text: Community Testing Center
-        href: https://www.kcc.edu/community/testing-center/
+        href: 'https://www.kcc.edu/community/testing-center/'
+      - text: Wheels of Opportunity
+        href: 'https://www.kcc.edu/community/wheels/'
       - text: Giving
         href: 'https://www.kcc.edu/foundation/'
 ## About KCC ##
@@ -320,7 +322,7 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: Leadership
         href: 'https://www.kcc.edu/about/leadership/'
       - text: Board of Trustees
-        href: https://www.kcc.edu/about/board-of-trustees/
+        href: 'https://www.kcc.edu/about/board-of-trustees/'
       - text: Human Resources
         href: 'https://www.kcc.edu/about/human-resources/'
       - text: Job Openings
@@ -347,5 +349,7 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
         href: 'https://www.kcc.edu/about/consumer-info/'
       - text: ICCB Salary and Benefits Portal
         href: 'https://iccbdbsrv.iccb.org/salarysearch/home.cfm'
+      - text: COVID-19 Response
+        href: 'https://coronavirus.kcc.edu'
       - text: Report a Concern
         href: 'https://www.kcc.edu/about/report-a-concern/'
