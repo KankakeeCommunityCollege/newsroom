@@ -3,6 +3,7 @@ name: "KCC Newsroom"
 site_name: Newsroom
 timezone: America/Chicago
 port: 3000
+# BUILD
 google-tag_key: GTM-T37TN4S
 url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
