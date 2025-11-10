@@ -12,5 +12,5 @@ press_release: false
 Here are the Hammes Cafe hours from now through January 2025.
 
 * Monday, Dec. 9 - Friday, Dec. 13: 10 a.m.-1 p.m.
-* Monday, Dec. 16- Friday, Jan. 3: Closed
+* Monday, Dec. 16- Friday, Jan. 3: Closed.
 * Beginning Monday, Jan. 6 - Open for [normal operating hours](https://www.kcc.edu/student-resources/food-services/) of 8 a.m.-3 p.m. Monday - Thursday and 9 a.m.-1 p.m. Fridays.
