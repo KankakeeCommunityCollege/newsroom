@@ -4,7 +4,7 @@ date: 2025-11-11 10:33:55 -0600
 expire_date: 2025-12-31 00:00:00 -0600
 image: /uploads/2023/ptklogo-580x700.jpg
 news_image_alt: Phi Theta Kappa Honor Society logo
-article_lead: '59 students inducted into honor society '
+article_lead: '59 students join honor society '
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
