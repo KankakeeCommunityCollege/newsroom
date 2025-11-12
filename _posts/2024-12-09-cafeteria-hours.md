@@ -1,7 +1,7 @@
 ---
 title: Cafeteria hours
 date: 2025-11-10 09:16:00 -0600
-expire_date: 2026-01-06 00:00:00 -0600
+expire_date: 2025-11-11 00:00:00 -0600
 image: /uploads/2023/cafeteria-food-plate572x661.jpg
 news_image_alt: Plate with fork, knife and spoon
 article_lead: Here's the schedule - now 'til January
