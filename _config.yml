@@ -215,6 +215,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
         href: 'https://www.kcc.edu/admissions/credit-for-prior-learning/'
       - text: DACA/Undocumented Students
         href: 'https://www.kcc.edu/admissions/undocumented/'
+      - text: Health Careers Requirements
+        href: 'https://www.kcc.edu/admissions/health-careers-requirements/'
 ## Tuition & Aid
   - link_text:  Tuition & Aid
     link_href: 'https://www.kcc.edu/tuition-and-aid/'
