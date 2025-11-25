@@ -14,7 +14,7 @@ press_release: false
 ![Cavaliers basketball players standing: Alyssa Ross (#2), Alana Ross (#12) and JJ Gillespie (#24); crouching: Mariya Babilius (#30)](/uploads/2023/cavsbballplayers-450x479.jpg "Cavaliers basketball players standing: Alyssa Ross &#40;#2&#41;, Alana Ross &#40;#12&#41; and JJ Gillespie &#40;#24&#41;; crouching: Mariya Babilius &#40;#30&#41;"){: width="450" height="479"}
 {: .center-this-text}
 
-Fans are invited to wear scarlet and navy for "Pack the Place" basketball activities on Thursday, Dec. 4 at Kankakee Community College.
+Fans are invited to wear scarlet and navy for “Pack the Place” basketball activities on Thursday, Dec. 4 at Kankakee Community College.
 
 The Lady Cavaliers play Illinois Central College at 5:30 p.m., and the men play Daley College at 7:30 p.m. Both games will be in the George H. Ryan Gymnasium at KCC. Admission is free and there will also be FREE refreshments while supplies last.
 
