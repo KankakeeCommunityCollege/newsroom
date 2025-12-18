@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The following students have been named to the President’s List at Kankakee Community College for the Fall 2025 term.
+The following students have been named to the President’s List at Kankakee Community College for the Fall 2025 semester.
 
 To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more credit hours.
 
