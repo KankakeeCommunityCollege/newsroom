@@ -1,7 +1,7 @@
 ---
 title: KACC students attend Health Careers Exploration Day
-date: 2025-12-02 14:37:00 -0600
-expire_date: 2025-12-31 00:00:00 -0600
+date: 2025-12-18 14:37:00 -0600
+expire_date: 2026-01-31 00:00:00 -0600
 image: /uploads/2023/healthcareerslogo-580x745.png
 news_image_alt: Logo for Kankakee Community College Health Careers program
 article_lead: Hands-on experiences for aspiring healthcare professionals
