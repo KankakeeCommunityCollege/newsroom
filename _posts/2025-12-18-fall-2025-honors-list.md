@@ -1,6 +1,6 @@
 ---
 title: Fall 2025 Honors List
-date: 2025-12-18 13:58:41 -0600
+date: 2025-12-18 13:58:00 -0600
 expire_date: 2026-01-31 00:00:00 -0600
 image: /uploads/2022/honorslist.png
 news_image_alt: KCC Honors List
