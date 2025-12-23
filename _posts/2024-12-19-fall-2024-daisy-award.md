@@ -28,7 +28,7 @@ Novoa received a DAISY Award pin; certificate; and a sculpture called *A Healer�
 
 Novoa has accepted a full-time position at Riverside Medical Center, working on a medical/pediatric floor.
 
-KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/registered-nursing-aas/) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
+KCC’s two-year [registered nursing program](https://catalog.kcc.edu/registered-nursing/associate-of-applied-science/registered-nursing) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
 
 LPNs also can apply for advanced placement into KCC’s registered nursing program.
 

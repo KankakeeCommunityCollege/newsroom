@@ -21,7 +21,7 @@ During the Fall 2023 semester, while Andersen was completing a clinical rotation
 
 Before graduation from KCC, Andersen accepted a job to continue as a full-time nurse.
 
-KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/2023-2024/academic-catalog/programs-of-study-by-area/health-careers/nursing-registered-aas/?utm_medium=news&amp;utm_campaign=daisy-pr) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
+KCC’s two-year [registered nursing program](https://catalog.kcc.edu/registered-nursing/associate-of-applied-science/registered-nursing) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
 
 For information about entry requirements, consult with a KCC advisor or contact the program director, Kellee Hayes at [khayes@kcc.edu](mailto:khayes@kcc.edu) or phone 815-802-8828.
 

@@ -19,7 +19,7 @@ The information VanDeVelde (far right in the photo) shared is about the intra-pr
 
 It's full title is "Inpatient interprofessional clinical experience lends to increased knowledge and awareness of the PT:PTA role."
 
-KCC offers an [Associate Degree in Physical Therapist Assistant](https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/programs/physical-therapist-assistant-aas/ "KCC Physical Therapist Assistant program"){: target="_blank" rel="noopener"}. It is a competitive entry program, with a maximum of 20 students entering it each fall. The five-semester program integrates professional standards, theory and clinical education in a variety of physical therapy settings. Students progress through the program as a cohort group.
+KCC offers an [Associate Degree in Physical Therapist Assistant](https://catalog.kcc.edu/physical-therapist-assistant/associate-of-applied-science/physical-therapist-assistant-0 "KCC Physical Therapist Assistant program"). It is a competitive entry program, with a maximum of 20 students entering it each fall. The five-semester program integrates professional standards, theory and clinical education in a variety of physical therapy settings. Students progress through the program as a cohort group.
 
 Graduates are prepared for employment as entry-level physical therapist assistants who work under the direction and supervision of a physical therapist. Employment settings for physical therapist assistants include hospitals, outpatient clinics, rehabilitation centers, nursing homes, home health, hospice facilities, school districts, and research centers.
 

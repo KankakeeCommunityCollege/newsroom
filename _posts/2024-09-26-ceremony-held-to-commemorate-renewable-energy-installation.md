@@ -55,16 +55,16 @@ For the first six years the array is used, KCC will have a Power Purchase Agreem
 **KCC renewable energy programs**
 
 * Associate in Applied Science:
-  * [Electrical Engineering Technology with a renewable energy track](https://kcc.smartcatalogiq.com/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-aas/)
+  * [Electrical Engineering Technology with a renewable energy track](https://catalog.kcc.edu/electrical-technology/associate-of-applied-science/electrical-engineering-technology)
 * Certificates:
-  * [Solar-Photovoltaic](https://kcc.smartcatalogiq.com/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/solar-photovoltaic-technology-certificate/)
-  * [Solar-thermal](https://kcc.smartcatalogiq.com/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/solar-thermal-technology-certificate/)
-  * [Small wind technology](https://kcc.smartcatalogiq.com/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/small-wind-technology-certificate/)
+  * [Solar-Photovoltaic](https://catalog.kcc.edu/electrical-technology/certificate/solar-photovoltaic-technology)
+  * [Solar-thermal](https://catalog.kcc.edu/electrical-technology/certificate/solar-thermal-technology)
+  * [Small wind technology](https://catalog.kcc.edu/electrical-technology/certificate/small-wind-technology)
 * Renewable energy courses:
-  * [Fundamentals of Electricity](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-1004/)
-  * [Survey of Renewable Energy](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-1503/)
-  * [Intro to Solar-Photovoltaic Tech](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-2334/)
-  * [Introduction to Small-Wind Technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-2324/)
-  * [Introduction to Solar-Thermal Technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-2314)
-  * [Advanced Photovoltaic Installation](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-2343)
-  * [Solar Operations & Maintenance](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-2353)
+  * [Fundamentals of Electricity](https://catalog.kcc.edu/electrical-technology/eltr-1004)
+  * [Survey of Renewable Energy](https://catalog.kcc.edu/electrical-technology/eltr-1503)
+  * [Intro to Solar-Photovoltaic Tech](https://catalog.kcc.edu/electrical-technology/eltr-2334)
+  * [Introduction to Small-Wind Technology](https://catalog.kcc.edu/electrical-technology/eltr-2324)
+  * [Introduction to Solar-Thermal Technology](https://catalog.kcc.edu/electrical-technology/eltr-2314)
+  * [Advanced Photovoltaic Installation](https://catalog.kcc.edu/electrical-technology/eltr-2343)
+  * [Solar Operations & Maintenance](https://catalog.kcc.edu/electrical-technology/eltr-2353)
