@@ -28,7 +28,7 @@ In the nomination, Bukowski also noted that the patient’s husband “repeatedl
 
 Olshefski has accepted a position at Riverside Medical Center to be a labor and delivery nurse.
 
-KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/registered-nursing-aas/) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
+KCC’s two-year [registered nursing program](https://catalog.kcc.edu/registered-nursing/associate-of-applied-science/registered-nursing) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
 
 For information about entry requirements, consult with a KCC advisor or contact the program director, Jennifer Rogers at [jrogers@kcc.edu](mailto:jrogers@kcc.edu) or phone 815-802-8828.
 

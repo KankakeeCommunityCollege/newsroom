@@ -31,8 +31,8 @@ Jennifer Rogers, director of KCC’s nursing programs, nominated Sosnowski for t
 
 Sosnowski has an associate degree in nursing from KCC, and bachelor’s and master’s degrees in nursing from Chamberlin University.
 
-KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
+KCC’s two-year [registered nursing program](https://catalog.kcc.edu/registered-nursing) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
 
-KCC’s one-year [practical nursing program](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/) has a competitive entry process, and accepts new students each fall semester. It incorporates classroom lectures, clinical experiences and lab demonstrations to prepare students to become practical nurses working in many health care settings.
+KCC’s one-year [practical nursing program](https://catalog.kcc.edu/practical-nursing) has a competitive entry process, and accepts new students each fall semester. It incorporates classroom lectures, clinical experiences and lab demonstrations to prepare students to become practical nurses working in many health care settings.
 
 For information about entry requirements, submit a request at [healthcareers.kcc.edu](http://healthcareers.kcc.edu), contact Rogers at [jrogers@kcc.edu](mailto:jrogers@kcc.edu) or phone 815-802-8828.
