@@ -51,7 +51,7 @@ function playlist() {
       [...response.items].forEach((item, i) => {
         const counter = `<span id="count${i + 1}" class="latest-news-widget__latest__tease__number playlist__count">${i + 1}</span>`;
         const title = `<h3 class="playlist__title playlist__title--shift">${item.snippet.title}</h3>`;
-        const thumb = `<img src="${item.snippet.thumbnails.medium.url}">`;
+        const thumb = `<img src="${item.snippet.thumbnails.medium.url}" alt="Thumbnail for ${item.snippet.title} video">`;
         const video_id = item.snippet.resourceId.videoId;
         const holder = `<div class='yt-item'>
   ${counter}
