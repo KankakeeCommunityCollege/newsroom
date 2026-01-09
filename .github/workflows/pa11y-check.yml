@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - master # Or your default branch, e.g., 'master', 'gh-pages'
-      - pa11y
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
