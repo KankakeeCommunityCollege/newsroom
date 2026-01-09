@@ -28,7 +28,8 @@
     "webpack-production": "npx webpack --watch --node-env production",
     "webpack-dev": "npx webpack --watch --node-env development",
     "browserslist": "npx browserslist@latest --update-db",
-    "pa11y": "bash pa11y.sh"
+    "pa11y": "bash pa11y.sh",
+    "pa11y-ci": "bash pa11y-ci.sh"
   },
   "author": "https://github.com/wdzajicek",
   "license": "ISC",
@@ -56,6 +57,10 @@
     "regenerator-runtime": "^0.14.1"
   },
   "comments": {
+    "scripts": {
+      "pa11y": "Run pa11y against the local build in the site folder (e.g. 'npm run pa11y -- -o'). Pass the -s flag to skip the jekyll build. Pass -o to generate a log file",
+      "pa11y-ci": "Run pa11y-ci against the live sitemap.xml file (e.g. 'npm run pa11y-ci -- -o'). Pass -s to skip the jekyll build, -o to generate a log file."
+    },
     "babel": {
       "presets": [
         [
