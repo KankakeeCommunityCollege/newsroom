@@ -113,6 +113,9 @@ exclude:
   - "look-for-deprecated-bs4-classes.mjs"
   - "look-for-deprecated-bs4-js.mjs"
   - "look-for-string-in-project-files.mjs"
+  - "pa11y.sh"
+  - "pa11y.*.json"
+  - "pa11y-log.*.txt"
 
 uploads_dir: "/uploads/2023"
 
