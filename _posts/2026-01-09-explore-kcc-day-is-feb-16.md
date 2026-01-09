@@ -4,7 +4,7 @@ date: 2026-01-09 09:57:06 -0600
 expire_date: 2026-02-17 00:00:00 -0600
 image: /uploads/2022/explore-kcc-day-newsroom-feb-23.jpg
 news_image_alt: Explore KCC Day
-article_lead: Tours and information available
+article_lead: Tours & information available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
