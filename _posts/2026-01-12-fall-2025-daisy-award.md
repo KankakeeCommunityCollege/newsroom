@@ -1,7 +1,7 @@
 ---
 title: Fall 2025 DAISY Award®
 date: 2026-01-12 13:17:15 -0600
-expire_date: 2026-05-31 00:00:00 -0500
+expire_date: 2026-04-24 00:00:00 -0500
 image: /uploads/2023/temoguerrero-580x750.jpg
 news_image_alt: Temo Guerrero, 2025 KCC graduate and DAISY Award® recipient
 article_lead: Congratulations, Temo Guerrero!
