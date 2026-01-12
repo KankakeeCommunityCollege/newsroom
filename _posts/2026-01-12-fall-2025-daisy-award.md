@@ -24,7 +24,7 @@ Two ICU nurses at Riverside, Christina Tsiamas and Elizabeth Martinez, submitted
 
 “Temo didn’t do this because it was his assignment,” Tsiamas said. “He did it because of who he is; someone who shows genuine compassion in moments when it is needed most.”
 
-At Riverside, Martinez served as a preceptor, or mentor, to Guerrero.
+At Riverside, Martinez served as a preceptor--or mentor--to Guerrero.
 
 “Temo was an amazing nursing student and did an amazing job with the patients within the ICU,” Martinez said in her nomination. “During his clinical rotation I asked if he would like to place an IV on one of my patients who needed more access. He was more than happy to help and gladly stepped away from (me) to perform the skill. What I did not expect, however, was his personal touch to care and the deep compassion he exemplified in the time he spent with my patient. My patient expressed repeatedly how much it meant to him that someone sat and talked with him.
 
