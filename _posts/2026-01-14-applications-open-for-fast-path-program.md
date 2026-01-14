@@ -3,13 +3,14 @@ title: Applications open for Fast Path program
 date: 2026-01-14 09:59:55 -0600
 expire_date: 2026-08-01 00:00:00 -0500
 image: /uploads/2023/fastpath-580x695.png
-news_image_alt: KCC Fast Path
+news_image_alt: KCC Fast Path program
 article_lead: Earn a transfer degree in 2 years
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![KCC Fast Path](/uploads/2023/fastpathlogo-300x250.jpg "KCC Fast Path"){: width="300" height="250"}
+![KCC Fast Path transfer program](/uploads/2023/fastpath-450x350-1.png "KCC Fast Path transfer program"){: width="450" height="350"}
+{: .center-this-text}
 
 KCC’s Fast Path transfer degree program is accepting applications for Fall 2026.
 
@@ -17,7 +18,8 @@ KCC’s Fast Path transfer degree program is accepting applications for Fall 202
 
 Barrett, a Watseka resident, is a senior at Eastern Illinois University studying communication disorders and sciences with a minor in psychology.
 
-![KCC Fast Path graduate Haven Barrett](/uploads/2023/havenbarrett-300x200.jpg "KCC Fast Path graduate Haven Barrett"){: width="300" height="200"}
+![KCC Fast Path graduate Haven Barrett](/uploads/2023/havenbarrett-450x300.jpg "KCC Fast Path graduate Haven Barrett"){: width="450" height="300"}
+{: .center-this-text}
 
 At KCC, Fast Path students complete two classes at a time, with a mix of in-person and online coursework. New classes begin every eight weeks during fall and spring semesters. After two years, students earn an Associate in Arts transfer degree.
 
