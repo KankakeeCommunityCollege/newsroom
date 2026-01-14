@@ -1,5 +1,5 @@
 ---
-title: Applications open for Fast Path program
+title: Apply now for Fast Path program
 date: 2026-01-14 09:59:55 -0600
 expire_date: 2026-08-01 00:00:00 -0500
 image: /uploads/2023/fastpath-580x695.png
