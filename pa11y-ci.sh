@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-SITEMAP='https://news.kcc.edu/sitemap.xml'
+SITEMAP='https://news.kcc.edu/pa11y-ci-sitemap.xml'
+# Folder to keep logs in
+LOGFOLDER="./pa11y-ci-logs"
 
 echo "## ===================================== ##"
 echo "##   Checking if Pa11y CI is installed.  ##"
@@ -39,63 +41,47 @@ while getopts ":os" opt; do
 done
 shift $((OPTIND-1))
 
-# if $SITEMAP_ARG_PASSED; then
-#   echo "## ================================== ##"
-#   echo "##       Skipping Jekyll build.       ##"
-#   echo "## ================================== ##"
-#   echo ""
-# else
-#   echo "## ================================== ##"
-#   echo "##        Running Jekyll build.       ##"
-#   echo "## ================================== ##"
-#   echo ""
-#   bundle exec jekyll build
-#   echo ""
-# fi
-
-echo "## ================================== ##"
-echo "##          Running Pa11y CI          ##"
-echo "## ================================== ##"
+echo "## ===================================== ##"
+echo "##            Running Pa11y CI           ##"
+echo "## ===================================== ##"
 echo ""
 
 if $OUTPUT_ARG_PASSED; then
+  # Add commands for when the specific argument is passed
   echo ""
   echo "Argument '-o' was passed. Writing Pa11y output to log file."
   echo ""
-  # Add commands for when the specific argument is passed
-  timestamp=$(date +"%Y-%m-%dT%H:%M:%S")
+  
+  timestamp=$(date +"%Y-%m-%dT%H_%M_%S")
   filename="pa11y-ci-log.$timestamp.txt"
+  filepath="$LOGFOLDER/$filename"
 
-  echo "##     Pa11y CI results     ##" > $filename
-  echo "" >> $filename
+  echo "Creating log folder ($LOGFOLDER) if it doesn't exist."
 
-  pa11y-ci --sitemap "$SITEMAP" 2>&1 | tee -a $filename
-  # Find all HTML files recursively within the _site directory
-  # and loop through each file
+  mkdir -p "$LOGFOLDER"
 
-  # find _site -name "*.html" | while read file; do
-  #   echo "Checking accessibility for: $file"
-  #   # Run Pa11y on the current HTML file
-  #   # --reporter cli outputs results in a human-readable format
-  #   # || true prevents the script from exiting immediately if Pa11y finds issues
-  #   # pa11y-ci --sitemap "$SITEMAP" 2>&1 | tee -a $filename
-  # done
+  echo "Creating log file: $filepath"
+  echo ""
+
+  echo "##############################" > $filepath
+  echo "##     Pa11y CI results     ##" >> $filepath
+  echo "##############################" >> $filepath
+  echo "" >> $filepath
+
+  echo "##     Running Pa11y CI:" >> $filepath
+  echo "##         DATETIME: $timestamp" >> $filepath
+  echo "##         SITEMAP:  $SITEMAP" >> $filepath
+  echo "" >> $filepath
+  echo "" >> $filepath
+
+  pa11y-ci --sitemap "$SITEMAP" 2>&1 | tee -a $filepath
 else
+  # Add commands for when the argument is missing
   echo ""
   echo "Argument '-o' was missing. Pa11y will output to stdout."
   echo ""
 
   pa11y-ci --sitemap "$SITEMAP"
-  # # Add commands for when the argument is missing
-  # # Find all HTML files recursively within the _site directory
-  # # and loop through each file
-  # find _site -name "*.html" | while read file; do
-  #   echo "Checking accessibility for: $file"
-  #   # Run Pa11y on the current HTML file
-  #   # --reporter cli outputs results in a human-readable format
-  #   # || true prevents the script from exiting immediately if Pa11y finds issues
-  #   pa11y "$file" --config ./pa11y.dev.json
-  # done
 fi
 
 echo ""

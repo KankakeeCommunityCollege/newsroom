@@ -118,6 +118,7 @@ exclude:
   - "pa11y-log.*.txt"
   - "pa11y-ci.sh"
   - "pa11y-ci-log.*.txt"
+  - "pa11y-ci-logs"
 
 uploads_dir: "/uploads/2023"
 
