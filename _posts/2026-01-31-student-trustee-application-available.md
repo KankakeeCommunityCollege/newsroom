@@ -1,7 +1,7 @@
 ---
 title: Student Trustee application available
 date: 2026-01-30 04:24:00 -0600
-expire_date: 2026-01-29 16:24:43 -0600
+expire_date: 2026-02-28 00:00:00 -0600
 image: /uploads/2023/search-for-kcc-trustee489x580.png
 news_image_alt: Search for KCC Student Trustee
 article_lead: Apply before February 27
