@@ -2,14 +2,14 @@
 title: Student Trustee application available
 date: 2026-01-31 16:24:00 -0600
 expire_date: 2026-01-29 16:24:43 -0600
-image:
-news_image_alt:
+image: /uploads/2023/search-for-kcc-trustee489x580.png
+news_image_alt: Search for KCC Student Trustee
 article_lead: Apply before February 27
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![The search is on for the](/uploads/2023/studenttrustee2024-350x350.jpg){: width="350" height="350"}
+![Search for KCC Student Trustee](/uploads/2023/search-for-kcc-trustee290x209.jpg "Search-for-KCC-Student-Trustee290x209"){: width="290" height="209"}
 
 The KCC Student Trustee application for the 2026-27 school year is now available.
 
