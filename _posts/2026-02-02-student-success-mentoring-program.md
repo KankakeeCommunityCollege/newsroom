@@ -1,7 +1,7 @@
 ---
 title: Student Success Mentoring Program
 date: 2026-02-02 16:24:09 -0600
-expire_date: 2026-02-02 16:24:09 -0600
+expire_date: 2026-02-16 00:00:00 -0600
 image: /uploads/2023/edicenter-580x650.jpg
 news_image_alt: Logo for KCC's Center for Equity, Diversity & Inclusion
 article_lead: Personalized support for students
