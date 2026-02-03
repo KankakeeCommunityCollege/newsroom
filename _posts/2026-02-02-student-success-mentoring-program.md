@@ -16,6 +16,12 @@ Student Success Mentoring Program applications now open!
 
 The Student Success Mentoring Program application is now available for the Spring 2026 term.
 
-Interested students can apply using the [application link](https://forms.gle/u7CMmoE1q2Uec8cs9 "Student Success Mentoring Program Application Link"){: target="_blank" rel="noopener"} by February 15, 2026. Participants will receive personalized support, guidance, and resources designed to help them succeed academically and personally at KCC.
+The program is designed to empower students through meaningful mentorship connections.
 
-For more information, contact Melany Villagomez at [mvillagomez@kcc.edu](mailto:mvillagomez@kcc.edu).
+“This program is more than just guidance, it’s about building relationships that inspire students to persist, thrive, and graduate,” said Melany Villagomez, KCC’s coordinator of equity, diversity and inclusion.
+
+Regular student-mentor connections foster academic success, leadership, and personal development.
+
+“Research shows that students with mentors are more likely to stay in school, perform better academically, and feel a stronger sense of belonging,” Villagomez said. “At KCC, we believe that every student deserves a champion, and this program is hoping to make that happen.”
+
+Interested students can apply using the [application link](https://forms.gle/u7CMmoE1q2Uec8cs9 "Student Success Mentoring Program Application Link"){: target="_blank" rel="noopener"} by February 15, 2026. For more information, contact Villagomez at [mvillagomez@kcc.edu](mailto:mvillagomez@kcc.edu).
