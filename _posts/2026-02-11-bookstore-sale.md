@@ -1,7 +1,7 @@
 ---
 title: Bookstore sale
 date: 2026-02-11 09:17:22 -0600
-expire_date: 2026-02-11 09:17:22 -0600
+expire_date: 2026-02-28 00:00:00 -0600
 image: /uploads/2023/sale-580x682.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: 25% off selected clothing items
