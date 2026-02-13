@@ -1,7 +1,7 @@
 ---
 title: KCC receives $44,000 state grant
 date: 2026-02-13 13:40:57 -0600
-expire_date: 2026-02-13 13:40:57 -0600
+expire_date: 2026-05-01 00:00:00 -0500
 image: /uploads/2023/adultedlogo-580x700.jpg
 news_image_alt: >-
   Logo for KCC's Adult & Community Education/Educación comunitaria y de adultos
