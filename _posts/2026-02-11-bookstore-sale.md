@@ -17,7 +17,7 @@ Looking for the perfect way to show your KCC pride this month? The Hammes Bookst
 
 Now is the perfect time to save on your favorite KCC apparel.
 
-The sale ends Friday, Feb. 27. Stop by the Hammes Bookstore and take advantage of this special offer while supplies last.
+The sale ends Friday, Feb. 27. New items are being added to the sale rack throughout the sale. Stop by the Hammes Bookstore and take advantage of this special offer while supplies last.
 
 &nbsp;
 
