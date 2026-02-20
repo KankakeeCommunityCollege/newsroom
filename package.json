@@ -57,6 +57,9 @@
     "core-js": "^3.6.5",
     "regenerator-runtime": "^0.14.1"
   },
+  "overrides": {
+    "ajv": "^8.18.0"
+  },
   "comments": {
     "scripts": {
       "pa11y": "Run pa11y against the local build in the site folder (e.g. 'npm run pa11y -- -o'). Pass the -s flag to skip the jekyll build. Pass -o to generate a log file",
