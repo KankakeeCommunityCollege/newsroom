@@ -26,10 +26,6 @@ Grants, scholarships, loans, and work-study can help pay for your education. Che
 * ### [**Complete the FAFSA**](https://studentaid.gov/h/apply-for-aid/fafsa)
   {: .h3}
 
-  It is faster and easier than ever to fill out, with most students and families completing it in less than 15 minutes. Check out this video on [How to Fill Out the FAFSA form](https://youtu.be/9apxxQrx-WY)
-  \* \### [**Complete the Alternative Application for Financial Aid**](https://studentportal.isac.org/en/alternativeapp)
-  {: .h3}
-
   Eligible undocumented students may apply for all forms of state financial aid, including the Monetary Award Program (MAP) grant, the state’s largest need-based grant program for low-income college students.
   * ### **Navigate the FAFSA with financial aid counselors**
     {: .h3}
