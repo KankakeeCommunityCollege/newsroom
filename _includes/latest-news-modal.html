@@ -2,60 +2,71 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col">
-
+      {% comment %}
+      <!-- MODALS, HEADING LEVELS, & <article> ELEMENTS
+        Normally, a modal window should continue the heading hierarchy established in the page.
+        However, since the news widget modals present an entire standalone article they can start
+        over at heading level H1. This is also why the modal contents below are wrapped in <article>
+        elements. This allows the same heading level in the article's page to work on the homepage rollup.
+       -->
+      {% endcomment %}
       {% assign current_posts = site.posts | where_exp: "item", "item.expire_date >  site.time" %}
       {% for post in current_posts limit: 4 %}
         {% if post.video_content == true %}
           <!--  Video content news item modal{{ forloop.index }}  -->
           <div class="modal fade" id="videoModal{{ forloop.index }}" data-video="{{ post.video_link }}" tabindex="-1" role="dialog" aria-labelledby="title{{ forloop.index }}" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h4 id="title{{ forloop.index }}" class="modal-title typography__h4">{{ post.title }}</h4>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  <div class="positioning__iframe-wrapper">
-                    <iframe class="js-yt-frame" id="iframe{{ forloop.index }}" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" width="720" height="405" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                  </div><br>
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
-                  <div class="post__content">
-                    {{ post.content }}
+            <article>
+              <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 id="title{{ forloop.index }}" class="modal-title typography__h4">{{ post.title }}</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <div class="positioning__iframe-wrapper">
+                      <iframe class="js-yt-frame" id="iframe{{ forloop.index }}" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" width="720" height="405" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div><br>
+                    <p class="news__sub-heading news__sub-heading--spacing"><span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }}</span></p>
+                    <div class="post__content">
+                      {{ post.content }}
+                    </div>
+                  </div>
+                  <div class="bootstrap-overrides__modal-footer flex-wrap">
+                    <!-- Facebook like share html -->
+                    <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+                    <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                    <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ms-md-auto">View Full Page</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
                   </div>
                 </div>
-                <div class="bootstrap-overrides__modal-footer flex-wrap">
-                  <!-- Facebook like share html -->
-                  <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
-                  <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ms-md-auto">View Full Page</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
-                </div>
               </div>
-            </div>
+            </article>
           </div>
         {% else %}
           <!--  News item modal{{ forloop.index }}  -->
           <div class="modal fade" id="modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="title{{ forloop.index }}" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h4 id="title{{ forloop.index }}" class="modal-title typography__h4">{{ post.title }}</h4>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
-                <div class="post__content">
-                  {{ post.content }}
-                </div>
+            <article>
+              <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 id="title{{ forloop.index }}" class="modal-title typography__h4">{{ post.title }}</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></p>
+                  <div class="post__content">
+                    {{ post.content }}
+                  </div>
 
-                </div>
-                <div class="bootstrap-overrides__modal-footer flex-wrap">
-                  <!-- Face booklike share html -->
-                  <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
-                  <a href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ms-md-auto">View Full Screen</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
+                  </div>
+                  <div class="bootstrap-overrides__modal-footer flex-wrap">
+                    <!-- Face booklike share html -->
+                    <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+                    <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                    <a href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ms-md-auto">View Full Screen</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
+                  </div>
                 </div>
               </div>
-            </div>
+            </article>
           </div>
         {% endif %}
       {% endfor %}
