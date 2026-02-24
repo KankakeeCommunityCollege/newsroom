@@ -1,7 +1,7 @@
 ---
 title: Financial Aid Awareness
 date: 2026-02-24 10:10:49 -0600
-expire_date: 2026-02-24 10:10:49 -0600
+expire_date: 2026-03-27 00:00:00 -0500
 image: /uploads/2023/fafsa-financial-piggy-bank250x235.jpg
 news_image_alt: Piggy bank
 article_lead: Many types of aid available
