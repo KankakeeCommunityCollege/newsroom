@@ -1,7 +1,7 @@
 ---
 title: Celebrate National TRIO Day
 date: 2026-02-25 08:19:59 -0600
-expire_date: 2026-02-25 08:19:59 -0600
+expire_date: 2026-03-27 00:00:00 -0500
 image: /uploads/2023/trio-logo438x537.jpg
 news_image_alt: TRIO logo
 article_lead: Programs with transformative impact
