@@ -48,7 +48,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.18.1)
-    kcc-gem-theme (3.18.1)
+    kcc-gem-theme (3.18.2)
       jekyll (~> 4)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
