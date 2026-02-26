@@ -18,7 +18,10 @@ An information session about Kankakee Community Collge’s Fast Path transfer de
 
 Visitors can learn more about the program, which offers a schedule of two classes a week for two years. The program leads to an Associate in Arts transfer degree. Participants complete two classes every eight weeks.
 
-“Fast Path was a great choice for starting my college journey. It was affordable, helped me figure out my major, and fully prepared me to transfer to the University of Illinois, Urbana-Champaign,” said Addison Edwards, a 2024 Fast Path graduate. ![Addison Edwards, 2024 KCC Fast Path graduate](/uploads/2023/addisonedwards-300x200.jpg "Addison Edwards, 2024 KCC Fast Path graduate"){: width="300" height="200"}“KCC’s program mentor and professors were welcoming, supportive, and always available to help.”
+![Addison Edwards, 2024 KCC Fast Path graduate](/uploads/2023/addisonedwards-300x200.jpg "Addison Edwards, 2024 KCC Fast Path graduate"){: width="300" height="200"}
+{: .center-this-text}
+
+“Fast Path was a great choice for starting my college journey. It was affordable, helped me figure out my major, and fully prepared me to transfer to the University of Illinois, Urbana-Champaign,” said Addison Edwards, a 2024 Fast Path graduate. “KCC’s program mentor and professors were welcoming, supportive, and always available to help.”
 
 The program admits a maximum of 20 students each fall, and a laptop is included.
 
