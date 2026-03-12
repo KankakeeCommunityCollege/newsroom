@@ -2,14 +2,14 @@
 title: KCC will be closed for the rest of the week
 date: 2026-03-11 13:11:10 -0500
 expire_date: 2026-03-16 00:00:00 -0500
-image: /uploads/2023/kcc-storm-image5.jpg
+image: /uploads/2023/kcc-storm-image580x661.jpeg
 news_image_alt: Rain icon
 article_lead: Red Cross shelter is open at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Rain icon and picture of a rainy street.](/uploads/2023/kcc-storm-image250x151.jpg "Rain icon"){: width="250" height="151"}
+![Rain icon with rainy street behind it.](/uploads/2023/kcc-storm-image250x151.jpeg "Rain image."){: width="250" height="151"}
 
 Due to the tornado and severe storms, Kankakee Community College will be closed for the remainder of the week as we assess damage and begin necessary repairs. This includes the Riverfront Campus and Manufacturing and Industrial Technology Center (MITC) in Kankakee, North Extension Center in Bradley and South Extension Center in Watseka.
 
