@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
 gem 'jekyll', '~> 4'
-gem 'kcc-gem-theme', '~> 3'
+gem 'kcc-gem-theme', '~> 4'
