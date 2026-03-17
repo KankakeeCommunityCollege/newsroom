@@ -1,7 +1,7 @@
 ---
 title: 2026 High School Art Show
 date: 2026-03-17 08:59:30 -0500
-expire_date: 2026-03-20 00:00:00 -0500
+expire_date: 2026-03-27 00:00:00 -0500
 image: /uploads/2026/2026hsartshow-580x750.jpg
 news_image_alt: ' "Volleyball" by Jayson Nguyen, a student at Bradley-Bourbonnais Community High School'
 article_lead: Enjoy local students' creative work!
