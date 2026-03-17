@@ -21,7 +21,7 @@ High schools participating in the exhibit are Bishop McNamara Catholic High Scho
 
 The exhibit is sponsored by KCC’s Visual Arts Department.
 
-KCC is located at 100 College Drive in Kankakee. Directions are at [www.kcc.edu/directions/](http://www.kcc.edu/directions "Directions to Kankakee Community College"){: target="_blank" rel="noopener"}.<br>
+KCC is located at 100 College Drive in Kankakee. Directions are at [www.kcc.edu/directions/](http://www.kcc.edu/directions "Directions to Kankakee Community College"){: target="_blank" rel="noopener"}.
 
 ![&quot;Volleyball&quot; by Jayson Nguyen, a student at Bradley-Bourbonnais Community High School](/uploads/2026/2026hsartshow-450x297.jpg "&quot;Volleyball&quot; by Jayson Nguyen, a student at Bradley-Bourbonnais Community High School"){: width="450" height="297"}
 {: .center-this-text}
