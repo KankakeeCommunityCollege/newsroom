@@ -30,13 +30,13 @@ The group will work with highly accomplished community college presidents, Aspen
 
 “We are honored to see President Boyd recognized at the national level,” said Bill Orr, chairman of the KCC board of trustees. “He represents the very best of KCC’s mission and our commitment to serving students and strengthening our region.”
 
-Boyd joined KCC's staff in 2014 as vice president for instructional and student success, the college's chief academic officer. Locally, Boyd has been involved with the Economic Alliance of Kankakee County, United Way, Kiwanis, the Kankakee Area Regional Vocational Education System and the Kankakee Grundy Livingston Workforce Board.
+Boyd joined KCC’s staff in 2014 as vice president for instructional and student success, the college’s chief academic officer. Locally, Boyd has been involved with the Economic Alliance of Kankakee County, United Way, Kiwanis, the Kankakee Area Regional Vocational Education System and the Kankakee Grundy Livingston Workforce Board.
 
 Boyd has served as a peer reviewer for the Higher Learning Commission, chairperson of the Manteno Chamber of Commerce, president of the Illinois Council of Chief Academic Officers, and president of the Illinois Council of Community College Administrators.
 
-Previously, Boyd was a professor of English and humanities and an associate dean at Illinois Central College. He served as ICC's Six Sigma Black Belt. Before becoming a college professor, Boyd was a high school English teacher and football coach.
+Previously, Boyd was a professor of English and humanities and an associate dean at Illinois Central College. He served as ICC’s Six Sigma Black Belt. Before becoming a college professor, Boyd was a high school English teacher and football coach.
 
-He has three degrees from Illinois State University: a bachelor's degree in English education, a master's degree in English studies and a doctorate in English studies.
+He has three degrees from Illinois State University: a bachelor’s degree in English education, a master’s degree in English studies and a doctorate in English studies.
 
 **The** **Aspen Institute College Excellence Program** aims to strengthen higher education leadership and practice to improve student outcomes—with the goal of advancing economic mobility and developing talent for the good of each individual and society as a whole. For more information, visit the [website](https://highered.aspeninstitute.org), [LinkedIn](https://www.linkedin.com/showcase/aspenhighered/?viewAsMember=true), [Bluesky](https://bsky.app/profile/aspenhighered.bsky.social), and [X](https://twitter.com/AspenHigherEd).
 
