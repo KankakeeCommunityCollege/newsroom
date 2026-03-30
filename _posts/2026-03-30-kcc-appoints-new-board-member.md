@@ -1,7 +1,7 @@
 ---
 title: KCC appoints new board member
 date: 2026-03-30 14:51:47 -0500
-expire_date: 2026-03-30 14:51:47 -0500
+expire_date: 2026-05-31 00:00:00 -0500
 image: /uploads/2026/mattschore-580x824.jpg
 news_image_alt: Matthew Schore
 article_lead: Meet Matthew Schore
