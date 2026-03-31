@@ -19,10 +19,10 @@ Fully completed applications must be postmarked by Sept. 20 and/or received by O
 {: .h2}
 
 * Applicants must maintain full-time status during the Spring 2026 and Fall 2026 semesters at an Illinois community college verified by official transcripts through the end of the Spring 2026 semester and a copy of Fall 2026 registration. Full-time status is defined as enrollment in a minimum of 12 semester hours.
-* Applicants must have completed 30 semester hours by the end of the Spring 2026 semester with a minimum cumulative Grade Point Average (GPA) of at least 3.5 on a 4 point scale.  Cumulative GPA must be verified by an official transcript received in a sealed envelope with the registrar’s signature or seal to guarantee authenticity.  Only college level work and grades will be considered.
-* Applicant must provide proof of Illinois residency.  (Photocopy of Illinois Driver’s License or other such document).
+* Applicants must have completed 30 semester hours by the end of the Spring 2026 semester with a minimum cumulative Grade Point Average (GPA) of at least 3.5 on a 4 point scale.  Cumulative GPA must be verified by an official transcript received in a sealed envelope with the registrar’s signature or seal to guarantee authenticity. Only college level work and grades will be considered.
+* Applicant must provide proof of Illinois residency. (Photocopy of Illinois Driver’s License or other such document).
 * Applicant must provide a brief statement of his/her academic and personal goals, along with a description of unpaid, voluntary community service and campus activities.
-* Applicant must provide a letter of recommendation, on official college letterhead, from a community college faculty member.  The letter should address the candidate’s academic achievement, character, and ability to meet his/her goals.
-* Each application must include the candidate’s complete mailing address, e-mail address, telephone number, and be signed.  All sensitive information (address, etc.) will remain confidential and be viewed only by the members of the ICCFA Scholarship Committee.
+* Applicant must provide a letter of recommendation, on official college letterhead, from a community college faculty member. The letter should address the candidate’s academic achievement, character, and ability to meet his/her goals.
+* Each application must include the candidate’s complete mailing address, e-mail address, telephone number, and be signed. All sensitive information (address, etc.) will remain confidential and be viewed only by the members of the ICCFA Scholarship Committee.
 
 &nbsp;
