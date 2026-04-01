@@ -13,7 +13,12 @@ press_release: false
 
 The What’s Next? Explore Your Pathway event is a FREE place to get information on career pathways, college majors and careers.
 
-Snacks will be provided.
+**The event has two options:**
+
+* Wednesday, April 8 from 11:30 a.m. -3 p.m. and
+* Thursday, April 9 from 9 a.m. -12:30 p.m.
+
+It will be in the KCC College Center and snacks will be provided.
 
 There will also be raffles for a number of prizes including a FREE class and $100 Hammes Bookstore Gift Card.
 
