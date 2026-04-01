@@ -9,6 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+![Graphic with footprints, the word Career and icons for different careers](/uploads/2023/career-pathways-graphic150x150.png "Career Pathways icons"){: width="150" height="150"}
+
 The What’s Next? Explore Your Pathway event is a FREE place to get information on career pathways, college majors and careers.
 
 Snacks will be provided.
