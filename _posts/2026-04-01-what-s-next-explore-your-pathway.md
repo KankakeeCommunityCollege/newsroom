@@ -15,8 +15,8 @@ The What’s Next? Explore Your Pathway event is a FREE place to get information
 
 **The event has two options:**
 
-* Wednesday, April 8 from 11:30 a.m. -3 p.m. and
-* Thursday, April 9 from 9 a.m. -12:30 p.m.
+* Wednesday, April 8 from 11:30 a.m.-3 p.m. and
+* Thursday, April 9 from 9 a.m.-12:30 p.m.
 
 It will be in the KCC College Center and snacks will be provided.
 
