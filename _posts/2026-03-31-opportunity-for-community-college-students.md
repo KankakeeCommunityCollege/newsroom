@@ -9,9 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The[Illinois Community College Faculty Association](https://iccfa48.org/index.html "Illinois Community College Faculty Association"){: target="_blank" rel="noopener"} is celebrating student excellence by offering up to seven $1,000 scholarships to students.
+The [Illinois Community College Faculty Association](https://iccfa48.org/index.html "Illinois Community College Faculty Association"){: target="_blank" rel="noopener"} is celebrating student excellence by offering up to seven $1,000 scholarships to students.
 
-Student Scholarship applications are available in Student Affairs (second floor) and the KCC Foundation Office (Room L271). Electronic forms are not available.
+Student Scholarship applications are available in Student Affairs (second floor) and the KCC Marketing Office (Room L271). Electronic forms are not available.
 
 Fully completed applications must be postmarked by Sept. 20 and/or received by Oct. 1, 2026.
 
