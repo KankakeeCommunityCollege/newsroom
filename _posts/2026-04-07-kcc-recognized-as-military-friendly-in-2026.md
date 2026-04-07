@@ -16,7 +16,7 @@ Kankakee Community College is one of 71 small community colleges across the nati
 
 KCC has had 37 veterans enroll during the 2025-26 school year, according to the college’s Office of Financial Aid. There have been 49 military-connected students utilizing Veteran’s Administration Education benefits this school year.
 
-“We are proud to serve veterans, and to be designated as a Military Friendly® School,” said Megan Ponton, assistant director of financial aid at KCC. “The college is dedicated to supporting veterans and active-duty military personnel, alongside their families, in their transition to higher education. We facilitate access to federal and state VA educational benefits and financial aid. We also provide comprehensive assistance tailored to individual academic, professional, and personal aspirations."
+“We are proud to serve veterans, and to be designated as a Military Friendly® School,” said Megan Ponton, assistant director of financial aid at KCC. “The college is dedicated to supporting veterans and active-duty military personnel, alongside their families, in their transition to higher education. We facilitate access to federal and state VA educational benefits and financial aid. We also provide comprehensive assistance tailored to individual academic, professional, and personal aspirations.”
 
 Throughout Illinois, there are only 12 community colleges which achieved a Military Friendly® designation this year. Community colleges were categorized as “small” or “large.” A total of 288 community colleges earned the Military Friendly® designation.
 
@@ -31,11 +31,7 @@ KCC will be included in the 2026-2027 Guide to Schools® in the April issue of M
 
 More information about KCC’s educational benefits for military veterans, spouses and dependents is at [www.kcc.edu/veterans](http://www.kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), email [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phone 815-802-8550.
 
-&nbsp;
-
-**Sidebars**
-
-**Military-friendly attributes of Kankakee Community College**
+## **Military-friendly attributes of Kankakee Community College**
 
 * Full-time advisers on staff, including career advising
 * Priority registration
@@ -53,8 +49,6 @@ More information about KCC’s educational benefits for military veterans, spous
 * Disability Services
 * Tutoring Services
 
-&nbsp;
-
-**About Military Friendly**
+## **About Military Friendly**
 
 Military Friendly® is the standard that measures an organization’s commitment, effort, and success in creating sustainable and meaningful benefits for the military community. Over 2,900 organizations compete annually for the Military Friendly® designation. Military Friendly is a service-disabled, veteran-owned small business. Military Friendly is not affiliated with or endorsed by the U.S. Department of Defense or the federal government. Results are produced via a rules-based algorithm. The data-driven Military Friendly® lists and methodology can be found at [https://www.militaryfriendly.com](https://www.militaryfriendly.com).
