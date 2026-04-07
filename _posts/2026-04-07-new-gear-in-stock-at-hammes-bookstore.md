@@ -1,6 +1,6 @@
 ---
 _schema: 'false'
-title: New gear in stock at Hammes Bookstore
+title: New gear in the Hammes Bookstore
 date: 2026-04-07 12:22:31 -0500
 expire_date: 2026-05-31 00:00:00 -0500
 image: /uploads/2023/bookstore-580x725.jpg
@@ -10,9 +10,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Fresh gear just dropped!
+Fresh gear just dropped in the Hammes Bookstore!
 
-Show your school spirit in style with our brand-new **team T-shirts** and **spring jackets**—perfect for game days, campus life, or just repping your team wherever you go.
+Show your school spirit in style with brand-new **team T-shirts** and **spring jackets**—perfect for game days, campus life, or just repping your team wherever you go.
 
 Stop by the Hammes Bookstore today and gear up for the season!
 
