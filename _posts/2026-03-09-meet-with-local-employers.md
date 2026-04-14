@@ -20,7 +20,7 @@ The event is open to the public and veterans are encouraged to attend. Admission
 
 More than 50 employers are expected to attend. KCC’s Career Services Center offers resume assistance before the job fair.
 
-An employer registration form and list of participating employers is at [www.kcc.edu/jobfair](www.kcc.edu/jobfair){: target="_blank" rel="noopener"}.
+An employer registration form and list of participating employers is at [www.kcc.edu/jobfair](https://www.kcc.edu/jobfair).
 
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee.
 

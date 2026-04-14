@@ -21,7 +21,7 @@ Accolades have followed:
 
 ![Mtn Dew Park &quot;Huge congratulatioins to Kankakee CC's Peyton Niksch for making history by pitiching the first perfect game ever at the college level or higher at Mountain Dew Park! This incredible achievement occurred during a game on Sunday night, March 2nd, in game 2 of a doubleheader against Olney Central College! Congratulations Peyton!](/uploads/2023/mtn-dew-park-pniksch-500x599.jpg "Mtn Dew Park social post"){: width="500" height="599"}
 
-One of Nicksch’s teammates [captured the final out](pic.x.com/yCkLADoXPN "Final out recorded"){: target="_blank" rel="noopener"} so the pitcher could post it to X.
+One of Nicksch’s teammates [captured the final out](https://pic.x.com/yCkLADoXPN "Final out recorded"){: target="_blank" rel="noopener"} so the pitcher could post it to X.
 
 “I am extremely proud of Peyton and all his accomplishments,” said Bryce Shafer, KCC head baseball coach. “Throwing a perfect game is one of the rarest feats in sports, and witnessing it was truly special. While this is an incredible individual achievement, it wouldn’t have been possible without the strong defense behind him and the support of his teammates. Peyton’s work ethic and dedication continue to impress me every day. This moment is a testament to the hard work of our entire team, especially our pitching staff and defense, who have been outstanding so far this season.”
 

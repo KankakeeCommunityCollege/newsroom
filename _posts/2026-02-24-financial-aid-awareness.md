@@ -44,7 +44,7 @@ Grants, scholarships, loans, and work-study can help pay for your education. Che
 
   \* Analyze your financial aid offers carefully.
 
-* **Understand your funding options.<br>**Grants and scholarships are free money; loans must be repaid with interest. [Compare federal and private loan](https://studentaid.gov/understand-aid/types/loans/federal-vs-private) options carefully.**<br>**Understand the mix of grants, scholarships, loans, and net costs. Login to your Financial Aid Self-Service account at [my.kcc.edu](my.kcc.edu)to review yours today!
+* **Understand your funding options.<br>**Grants and scholarships are free money; loans must be repaid with interest. [Compare federal and private loan](https://studentaid.gov/understand-aid/types/loans/federal-vs-private) options carefully.**<br>**Understand the mix of grants, scholarships, loans, and net costs. Login to your Financial Aid Self-Service account at [my.kcc.edu](https://my.kcc.edu)to review yours today!
 * **Financial aid covers more than tuition.<br>**It can be used for books, housing, transportation, and other essential college expenses such as childcare.
 * **College is an investment in your future.<br>**Weighing the costs of borrowing a student loan against the potential long-term benefits of a college degree? Let our financial aid team help you with a budget to ensure you borrow wisely.
 * **Get help with financial aid and loan repayment planning.<br>**The KCC financial aid office and online resources can help you make informed decisions. Check out our [Financial Aid Handbook](https://www.kcc.edu/tuition-and-aid/uploads/pdf/25-26%20FA%20Handbook.pdf) to more details!
