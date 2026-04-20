@@ -1,12 +1,12 @@
 ---
-title: New report highlights KCC's role in boosting local economic growth
+title: KCC driving local economic growth
 date: 2026-04-16 15:29:02 -0500
 expire_date: 2026-07-31 00:00:00 -0500
 image: /uploads/2023/kcccampus-580x700.jpg
 news_image_alt: >-
   Image showing the front entrance of Kankakee Community College and courtyard
   sculpture
-article_lead: Study shows powerful impact on community
+article_lead: Study shows powerful impact
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
