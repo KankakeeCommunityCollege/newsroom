@@ -1,5 +1,5 @@
 ---
-title: KCC driving local economic growth
+title: KCC drives local economic growth
 date: 2026-04-16 15:29:02 -0500
 expire_date: 2026-07-31 00:00:00 -0500
 image: /uploads/2023/kcccampus-580x700.jpg
