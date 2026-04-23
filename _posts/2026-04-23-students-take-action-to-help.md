@@ -1,7 +1,7 @@
 ---
 title: Students take action to help
 date: 2026-04-23 13:12:13 -0500
-expire_date: 2026-04-23 13:12:13 -0500
+expire_date: 2026-05-31 00:00:00 -0500
 image: /uploads/2023/earth-day2026-united-way580x886.jpg
 news_image_alt: Two KCC students at United Way Day of Action for Earth Day, April 22, 2026
 article_lead: It was a good 'Day of Action'
