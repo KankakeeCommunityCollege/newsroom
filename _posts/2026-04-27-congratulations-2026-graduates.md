@@ -26,7 +26,7 @@ Three students will be honored as members of the All-Illinois Academic Team, a s
 ![L-R: Braden Gibson, Kendahl Carlson, Zachary Fox](/uploads/2026/gibson-carlson-fox-2026.jpg "L-R: Braden Gibson, Kendahl Carlson, Zachary Fox"){: width="708" height="328"}
 {: .center-this-text}
 
-The KCC Outstanding Faculty Member Awards for 2026 will be presented to Cari Stevenson, Ph.D., psychology professor in the Liberal Arts & Sciences Division; and Tishauna Thigpen, Foundations for Student Success instructor. Stevenson also received KCC’s Outstanding Full-Time Faculty Award in 2014, making her the first person to receive this honor twice.
+The KCC Outstanding Faculty Member Awards for 2026 will be presented to [Cari Stevenson, Ph.D.](https://sites.google.com/kcc.edu/caristevenson/ "Cari Stevenson, Ph.D."){: target="_blank" rel="noopener"}, psychology professor in the Liberal Arts & Sciences Division; and Tishauna Thigpen, Foundations for Student Success instructor. Stevenson also received KCC’s Outstanding Full-Time Faculty Award in 2014, making her the first person to receive this honor twice.
 
 ![L-R: Cari Stevenson, Tishauna Thigpen](/uploads/2026/stevenson-thigpen-2026.jpg "L-R: Cari Stevenson, Tishauna Thigpen"){: width="654" height="437"}
 {: .center-this-text}
