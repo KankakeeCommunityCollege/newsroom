@@ -1,0 +1,7 @@
+// Larger scroll-padding-top needed for local (Adult Ed) nav that makes the global header taller.
+@media screen and (min-width: 992px) {
+  html {
+    /* Set this to your navbar height + 15-20px for "breathing room" */
+    scroll-padding-top: 184px;
+  }
+}
