@@ -11,7 +11,7 @@ press_release: false
 ---
 More than 250 students will receive degrees and certificates at the 57th annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 16 in the George H. Ryan Gymnasium in the college’s Activities Building.
 
-![A photo of a graduation cap with a tassel displaying &quot;2026&quot;](/uploads/2026/2026commencement-600x400.jpg "A photo of a graduation cap with a tassel displaying &quot;2026&quot;"){: width="600" height="400"}
+![A photo of a graduation cap with a tassel displaying &quot;2026&quot; next to a diploma cover](/uploads/2026/2026commencement-600x400.jpg "A photo of a graduation cap with a tassel displaying &quot;2026&quot; next to a diploma cover"){: width="600" height="400"}
 {: .center-this-text}
 
 The speaker at KCC’s ceremony will be Ellen Bollino, vice president and chief nursing officer for Riverside Healthcare. She has spent the majority of her career at Riverside, and has also held roles as director of nursing and director of emergency services at Chicago-area medical centers. Bollino is a member of the Illinois Nursing Foundation American Nurses Association Bylaws Committee and holds certification as a Certified Emergency Nurse (CEN).
