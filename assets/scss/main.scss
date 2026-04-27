@@ -2,6 +2,7 @@
 @use '0-tools/bootstrap-overrides';
 
 // Base items
+@use '1-base/html';
 @use '1-base/typography';
 @use '1-base/links';
 @use '1-base/buttons';
