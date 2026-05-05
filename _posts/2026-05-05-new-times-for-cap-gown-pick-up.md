@@ -9,6 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+![Graduation cap with tassel](/uploads/2023/commencement2026-cap-tassel250x250.jpg "Graduation cap with tassel"){: width="250" height="250"}
+
 After a shipping delay, the new dates and times for cap and gown pickup are:
 
 * **Monday-Thursday, May 11-14**
