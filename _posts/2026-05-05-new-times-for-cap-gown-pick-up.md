@@ -1,7 +1,7 @@
 ---
 title: New times for cap & gown pick-up
 date: 2026-05-05 08:38:30 -0500
-expire_date: 2026-05-05 08:38:30 -0500
+expire_date: 2026-05-15 00:00:00 -0500
 image: /uploads/2023/commencement2026-cap-tassel580x758.jpg
 news_image_alt: Graduation cap with tassel
 article_lead: Important information for 2026 grads
@@ -9,6 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+![Graduation cap with tassel](/uploads/2023/commencement2026-cap-tassel250x250.jpg "Graduation cap with tassel"){: width="250" height="250"}
+
 After a shipping delay, the new dates and times for cap and gown pickup are:
 
 * **Monday-Thursday, May 11-14**
