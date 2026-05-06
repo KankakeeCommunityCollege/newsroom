@@ -12,7 +12,9 @@ press_release: false
 ---
 ![Information sign](/uploads/2023/i-informaiton-sign-pexels-aleksei-pribolovski-258450633-29057254-240x278.jpg "Information sign"){: width="240" height="278"}
 
-KCC was among many institutions worldwide affected by a cybersecurity incident at Canvas. Based on information available so far, the data involved includes personal information. However, there is **no indication** that sensitive information was accessed.
+KCC was among many institutions worldwide affected by a cybersecurity incident at Canvas. Canvas is KCC's learning management system provider.
+
+Based on information available so far, the data involved includes personal information. However, there is **no indication** that sensitive information was accessed.
 
 At this time, no action is required. We are providing this update for your awareness and will contact you if any further steps are needed. As a general precaution, please remain alert for unexpected emails or messages and avoid sharing personal information with unknown sources.
 
