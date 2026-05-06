@@ -37,6 +37,6 @@ To be eligible for membership, students must have a 3.5 grade point average or b
 
 For more information on the [Alpha Delta Eta chapter at KCC](https://www.kcc.edu/student-resources/student-life/clubs/#phi-theta-kappa), contact a chapter adviser, Jaclyn Montemayer or Kenneth West, at [jmontemayer@kcc.edu](mailto:jmontemayer@kcc.edu) or [kwest@kcc.edu](mailto:kwest@kcc.edu).
 
-**Sidebar: About Phi Theta Kappa**
+## **About Phi Theta Kappa**
 
-Phi Theta Kappa is the premier honor society recognizing the academic achievement of students at associate degree-granting colleges and helping them to grow as scholars and leaders. The honor society has more than 3.8 million members and nearly 1,300 chapters in 11 countries, with approximately 220,000 active members in the nation’s colleges. Learn more at [www.kcc.edu/student-resources/clubs/#phi-theta-kappa](http://www.kcc.edu/student-resources/clubs/#phi-theta-kappa).
+Phi Theta Kappa is the premier honor society recognizing the academic achievement of students at associate degree-granting colleges and helping them to grow as scholars and leaders. The honor society has more than 3.8 million members and nearly 1,300 chapters in 11 countries, with approximately 220,000 active members in the nation’s colleges. Learn more at [www.kcc.edu/PTK](http://www.kcc.edu/student-resources/clubs/#phi-theta-kappa)
