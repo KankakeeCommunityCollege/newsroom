@@ -31,15 +31,11 @@ KCC students who recently joined are:
 * **Watseka**: Brandon Adams, Cynthia Cross and Jessie Puleo.
 * **Wilmington**: Raechel Steffes.
 
-&nbsp;
-
 KCC holds induction ceremonies for new [Phi Theta Kappa](https://www.kcc.edu/student-resources/clubs/#phi-theta-kappa) members each fall and spring semester. This spring’s event was Apr. 24.
 
 To be eligible for membership, students must have a 3.5 grade point average or better on a 4.0 scale after completing a minimum of 12 semesters hours of KCC coursework.
 
 For more information on the [Alpha Delta Eta chapter at KCC](https://www.kcc.edu/student-resources/student-life/clubs/#phi-theta-kappa), contact a chapter adviser, Jaclyn Montemayer or Kenneth West, at [jmontemayer@kcc.edu](mailto:jmontemayer@kcc.edu) or [kwest@kcc.edu](mailto:kwest@kcc.edu).
-
-&nbsp;
 
 **Sidebar: About Phi Theta Kappa**
 
