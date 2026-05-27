@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The following students have been named to the Honors List at Kankakee Community College for the Spring 2026 term.
+The following students have been named to the Honors List at Kankakee Community College for the Spring 2026 semester.
 
 To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
 
