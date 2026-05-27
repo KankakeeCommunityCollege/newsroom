@@ -11,7 +11,7 @@ press_release: false
 ---
 The following students have been named to the President’s List at Kankakee Community College for the Spring 2026 term.
 
-To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more credit hours.
+To be named to the President’s List, a student must maintain a grade point average of 3.8 or higher and be enrolled in six or more credit hours.
 
 * **Ashkum:** Eric Burgess, Dacia Hibbard and Austin Schoon.
 * **Beecher:** Tina Brown, Mia Chavez, Brianna Delacruz, Kathryn Gregory, Marixa Hernandez, William Melcarek, Jaiden Nuccio, Chloe Tallant, Arabella Totos and Brianna Villarreal.
