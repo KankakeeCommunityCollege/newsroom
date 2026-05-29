@@ -14,7 +14,7 @@ Daniela Hernadez-Patrevito a 2026 graduate of the registered nursing program at 
 ![Daniela Hernandez-Patrevito, 2026 KCC graduate and DAISY Award® recipient](/uploads/2026/danielahernandezpatrevito-400x500.jpg "Daniela Hernandez-Patrevito, 2026 KCC graduate and DAISY Award® recipient"){: width="400" height="500"}
 {: .center-this-text}
 
-The annual award is part of The DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
+The annual award is part of The DAISY Foundation’s mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
 Hernadez-Patrevito, a Momence resident, was chosen by a committee at KCC, and the award was presented on May 15 at the Registered Nursing pinning ceremony. Hernadez-Patrevito received a certificate, a DAISY Award pin and a sculpture called *A Healer’s Touch*, hand-carved by artists of the Shona Tribe in Zimbabwe.
 
@@ -28,9 +28,7 @@ KCC’s two-year [registered nursing program](https://catalog.kcc.edu/registered
 
 For information about entry requirements, consult with a KCC adviser or contact the program director, Jennifer Rogers at [jrogers@kcc.edu](mailto:jrogers@kcc.edu) or phone 815-802-8828.
 
-**Sidebar:**
-
-**About The DAISY Foundation**
+## **About The DAISY Foundation**
 
 The DAISY Foundation is a not-for-profit organization, established in memory of J. Patrick Barnes, by members of his family. Patrick died at the age of 33 in late 1999 from complications of Idiopathic Thrombocytopenic Purpura (ITP), a little known but not uncommon auto-immune disease. (DAISY is an acronym for Diseases Attacking the Immune System.) The care Patrick and his family received from Nurses while he was ill inspired the creation of The DAISY Award for Extraordinary Nurses, an evidenced-based means of providing nurse recognition and thanking nurses for making a profound difference in the lives of their patients and patient families.
 
