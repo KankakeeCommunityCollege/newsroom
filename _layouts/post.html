@@ -1,42 +1,39 @@
 ---
 layout: default-core
 ---
+<div class="container">
+  <div class="row">
+    <div class="col post__content">
+      <h1 class="typography__h1">{{ page.title }}</h1>
+      <p><strong>Posted On: {{ page.date | date: "%m/%d/%y" }}</strong></p>
 
-<main id="content">
-  <div class="container">
-    <div class="row">
-      <div class="col post__content">
-        <h2 class="typography__h2">{{ page.title }}</h2>
-        <p><strong>Posted On: {{ page.date | date: "%m/%d/%y" }}</strong></p>
-
-        {% if page.video_content == true %}
-          <div class="text-center">
-            <div class="positioning__iframe-wrapper">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}" frameborder="0" allowfullscreen></iframe>
-            </div>
+      {% if page.video_content == true %}
+        <div class="text-center">
+          <div class="positioning__iframe-wrapper">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}" frameborder="0" allowfullscreen></iframe>
           </div>
-        {% endif %}
-        <div class="editable">
-          {{ content }}
         </div>
-        <div class="fb-like" data-href="{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-        <a class="twitter-share-button" data-text="Newsroom - KCC | {{ page.title }} via @KCCedu" data-url="{{ site.url }}{{ page.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
-        {% if page.video_content == true %}
-          <br />
-          <div class="mt-3">
-            <a class="btn btn-danger buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="{{ page.baseurl }}assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="" />&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a>
-          </div>
-        {% endif %}
-        {% if page.press_release == true %}
-          <div class="positioning__margin-top editable">
-            <p class="text-center">-30-</p>
-            <p>Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is &ldquo;Enhancing quality of life through learning.&rdquo; The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.</p>
-            <p class="text-center">###</p>
-            <p>More KCC news and photos are available at our <a href="../../../../">Newsroom</a>, and on <a target="_blank" rel="noopener" href="http://www.facebook.com/kankakeecommunitycollege">Facebook</a>, <a href="http://www.twitter.com/kccedu">Twitter</a> and <a target="_blank" rel="noopener" href="https://www.youtube.com/user/KankakeeCommCollege">YouTube</a>. Official <a target="_blank" rel="noopener" href="http://www.kcc.edu/FacultyStaff/departments/marketing/Pages/logos.aspx">college logos</a> are available online.</p>
-            <p>Contact:<br />Kari Nugent<br />Director of marketing and public relations<br />815-802-8256<br /><a href="mailto:knugent@kcc.edu">knugent@kcc.edu</a></p>
-          </div>
-        {% endif %}
+      {% endif %}
+      <div>
+        {{ content }}
       </div>
+      <div class="fb-like" data-href="{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+      <a class="twitter-share-button" data-text="Newsroom - KCC | {{ page.title }} via @KCCedu" data-url="{{ site.url }}{{ page.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+      {% if page.video_content == true %}
+        <br />
+        <div class="mt-3">
+          <a class="btn btn-danger buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="{{ page.baseurl }}assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="" />&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a>
+        </div>
+      {% endif %}
+      {% if page.press_release == true %}
+        <div class="positioning__margin-top">
+          <p class="text-center">-30-</p>
+          <p>Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is &ldquo;Enhancing quality of life through learning.&rdquo; The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.</p>
+          <p class="text-center">###</p>
+          <p>More KCC news and photos are available at our <a href="../../../../">Newsroom</a>, and on <a target="_blank" rel="noopener" href="http://www.facebook.com/kankakeecommunitycollege">Facebook</a>, <a href="http://www.twitter.com/kccedu">Twitter</a> and <a target="_blank" rel="noopener" href="https://www.youtube.com/user/KankakeeCommCollege">YouTube</a>. Official <a target="_blank" rel="noopener" href="http://www.kcc.edu/FacultyStaff/departments/marketing/Pages/logos.aspx">college logos</a> are available online.</p>
+          <p>Contact:<br />Kari Nugent<br />Director of marketing and public relations<br />815-802-8256<br /><a href="mailto:knugent@kcc.edu">knugent@kcc.edu</a></p>
+        </div>
+      {% endif %}
     </div>
   </div>
-</main>
+</div>
