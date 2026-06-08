@@ -1,20 +1,277 @@
-/* Custom style sheet for providing custom styles in CloudCannon  */
+h1.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
 
-/* MUST BE 100% UNCOMPRESSED CSS AKA EXPANDED
-   EACH CLASS MUST HAVE 1 ELEMENT IT APPLIES TO */
+h1.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h1.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h1.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h1.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h1.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+h2.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h2.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h2.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h2.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h2.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h2.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+h3.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h3.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h3.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h3.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h3.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h3.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+h4.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h4.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h4.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h4.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h4.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h4.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+h5.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h5.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h5.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h5.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h5.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h5.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+h6.typography__h1 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h6.typography__h2 {
+  color: #0f3b63;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h6.typography__h3 {
+  color: #c61f48;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h6.typography__h4 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h6.typography__h5 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+h6.typography__h6 {
+  color: #666;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
 
 img.float-image-left {
-  height: auto;
-  float: left;
   max-width: 100%;
-  padding-right: .5rem;
+  height: auto;
+  margin: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  img.float-image-left {
+    float: left;
+  }
 }
 
 img.float-image-right {
-  height: auto;
-  float: right;
   max-width: 100%;
-  padding-left: .5rem;
+  height: auto;
+  margin: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  img.float-image-right {
+    float: right;
+  }
 }
 
 img.no-float {
@@ -22,44 +279,23 @@ img.no-float {
 }
 
 img.center-image {
+  height: auto;
+  margin-bottom: 10px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
   max-width: 100%;
-  height: auto;
   text-align: center;
 }
 
-h2.h2 {
-  color: #666;
-  font-family: 'Roboto', sans-serif;
-  font-size: 2rem;
-  font-weight: 500;
+p.text-left {
+  text-align: left;
 }
 
-h3.h3 {
-  color: #0f3b63;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.75rem;
-  font-weight: 600;
+p.text-right {
+  text-align: right;
 }
 
-h4.h4 {
-  color: #c61f48;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.7rem;
-  font-weight: 600;
-}
-
-h5.h5 {
-  color: #666;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700;
-  font-size: 1.5rem;
-}
-
-h6.h6 {
-  color: #666;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700;
-  font-size: 1.4rem;
+p.text-center {
+  text-align: center;
 }

@@ -1,4 +1,5 @@
-<div class="container-fluid" id="content">
+<div class="container-fluid">
+  <h1 class="visually-hidden">KCC Newsroom</h1>
   <div class="row">
     <div class="col">
       <div class="latest-news-widget-mod site-width">
@@ -16,7 +17,7 @@
                     <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aria-hidden="false">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                        <span class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></span>
                       </div>
                       <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
@@ -27,7 +28,7 @@
                     <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="false">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                        <span class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></span>
                       </div>
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.image }}')">
                         <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}" alt="{{ post.news_image_alt | replace: '"', '&quot;' }}">
@@ -39,7 +40,7 @@
                     <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aria-hidden="true">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                        <span class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></span>
                       </div>
                       <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod latest-news-widget__feature__yt-thumb">
@@ -50,7 +51,7 @@
                     <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="true">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
-                        <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
+                        <span class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></span>
                       </div>
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
                         <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}" alt="{{ post.news_image_alt | replace: '"', '&quot;' }}">
