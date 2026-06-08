@@ -1,6 +1,6 @@
 ---
 title: Explore KCC Day is July 8
-date: 2026-06-08 16:48:56 -0500
+date: 2026-06-10 16:48:56 -0500
 expire_date: 2026-07-09 00:00:00 -0500
 image: /uploads/2022/explore-kcc-day-newsroom-feb-23.jpg
 news_image_alt: Explore KCC Day
