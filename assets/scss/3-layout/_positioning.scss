@@ -1,5 +1,11 @@
 // Positioning Styles
 // ==========================================
+@media screen and (min-width: 992px) {
+  .positioning__offset-global-header {
+    padding-top: 180px;
+  }
+}
+
 .positioning__margin-bottom {
   margin-bottom: 30px;
 }
