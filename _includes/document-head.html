@@ -15,7 +15,7 @@
     <link rel="canonical" href="{% if page.url == '/' %}{{ site.canonical_baseurl }}{% else %}{{ site.canonical_baseurl }}{{ page.url }}{% endif %}">
     {%- endif %}
     <!-- Standard Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{page.baseurl}}favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
   {% if page.url == '/' %}
     <!-- Preload the news widget images -->
     {% assign current_posts = site.posts | where_exp: "item", "item.expire_date >  site.time" %}

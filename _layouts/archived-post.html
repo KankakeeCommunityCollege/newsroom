@@ -1,63 +1,60 @@
 ---
 layout: default-core
 ---
-
-<main id="content">
-  <div class="container">
-    <div class="row">
-      <div class="col post__content">
-        {% if page.image %}
-        <div class="row background--black archive__header--height">
-          <div class="col-12 col-lg-4 mt-auto order-2 order-lg-1 mb-3">
-            <div class="latest-news-widget__feature__tease__hgroup">
-              <h3 class="latest-news-widget__feature__tease__overline">
-                {{ page.title }}
-              </h3>
-              <h4 class="latest-news-widget__feature__tease__h">
-                {{ page.article_lead }}
-              </h4>
-            </div>
-          </div>
-          <div style="background-image: url({{ page.image }});" class="col-12 col-lg-8 archive__img--wrapper">
+<div class="container">
+  <div class="row">
+    <div class="col post__content">
+      {% if page.image %}
+      <div class="row background--black archive__header--height">
+        <div class="col-12 col-lg-4 mt-auto order-2 order-lg-1 mb-3">
+          <div class="latest-news-widget__feature__tease__hgroup">
+            <span class="latest-news-widget__feature__tease__overline">
+              {{ page.title }}
+            </span>
+            <span class="latest-news-widget__feature__tease__h">
+              {{ page.article_lead }}
+            </span>
           </div>
         </div>
-        <br>
-        <hr>
-        <br>
-        {% endif %}
-        <h3 class="typography__h3">{{ page.title }}</h3>
-        <p><strong>Posted On: {{ page.date | date: "%m/%d/%y" }}</strong></p>
-
-        {% if page.video_content == true %}
-        <div class="text-center">
-          <div class="positioning__iframe-wrapper">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}" frameborder="0" allowfullscreen></iframe>
-          </div>
+        <div style="background-image: url({{ page.image }});" class="col-12 col-lg-8 archive__img--wrapper">
         </div>
-        {% endif %}
-        <div class="editable">
-          {{ content }}
-        </div>
-        {% if page.video_content == true %}
-        <br>
-        <div class="mt-3">
-          <a class="btn btn-danger buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="{{ page.baseurl }}assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="">&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a>
-        </div>
-        {% endif %}
-        {% if page.press_release == true %}
-        <div class="positioning__margin-top editable">
-          <p class="text-center">-30-</p>
-          <p>Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.</p>
-          <p class="text-center">###</p>
-          <p>More KCC news and photos are available at our <a href="{{ page.baseurl }}">Newsroom</a>, and on <a href="http://www.facebook.com/kankakeecommunitycollege" target="_blank" rel="noopener">Facebook</a>, <a href="http://www.twitter.com/kccedu">Twitter</a> and <a href="https://www.youtube.com/user/KankakeeCommCollege" target="_blank" rel="noopener">YouTube</a>. Official <a href="https://www.kcc.edu/about/marketing/#downloadable-logos" target="_blank" rel="noopener">college logos</a> are available online.</p>
-          <p>Contact:<br>
-            Kari Nugent<br>
-            Director of marketing and public relations<br>
-            815-802-8256<br>
-            <a href="mailto:knugent@kcc.edu">knugent@kcc.edu</a></p>
-        </div>
-        {% endif %}
       </div>
+      <br>
+      <hr>
+      <br>
+      {% endif %}
+      <h1 class="typography__h1">{{ page.title }}</h1>
+      <p><strong>Posted On: {{ page.date | date: "%m/%d/%y" }}</strong></p>
+
+      {% if page.video_content == true %}
+      <div class="text-center">
+        <div class="positioning__iframe-wrapper">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_link | remove: "https://youtu.be/" }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      {% endif %}
+      <div>
+        {{ content }}
+      </div>
+      {% if page.video_content == true %}
+      <br>
+      <div class="mt-3">
+        <a class="btn btn-danger buttons__custom-danger" href="https://www.youtube.com/channel/UCpolj7IezPpI0zv6tFcmEJw?sub_confirmation=1" target="_blank" rel="noopener"><img src="{{ page.baseurl }}assets/img/youtube-white.svg" class="buttons__yt-subscribe" alt="">&nbsp;Subscribe</a>&nbsp;<a class="btn btn-primary" href="https://www.youtube.com/playlist?list=PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9" target="_blank" rel="noopener">More Newsroom Videos</a>
+      </div>
+      {% endif %}
+      {% if page.press_release == true %}
+      <div class="positioning__margin-top">
+        <p class="text-center">-30-</p>
+        <p>Kankakee Community College is an accredited two-year college which awards associate degrees and certificates of completion. KCC prepares students both to transfer to four-year colleges and to enter the workforce. The college also offers continuing education courses and certification training, literacy programs, English as a Second Language and GED preparation. The KCC mission is “Enhancing quality of life through learning.” The college has a Riverfront Campus in Kankakee, South Extension Center in Watseka, North Extension Center in Bradley and Manufacturing and Industrial Technology Center in Kankakee.</p>
+        <p class="text-center">###</p>
+        <p>More KCC news and photos are available at our <a href="{{ page.baseurl }}">Newsroom</a>, and on <a href="http://www.facebook.com/kankakeecommunitycollege" target="_blank" rel="noopener">Facebook</a>, <a href="http://www.twitter.com/kccedu">Twitter</a> and <a href="https://www.youtube.com/user/KankakeeCommCollege" target="_blank" rel="noopener">YouTube</a>. Official <a href="https://www.kcc.edu/about/marketing/#downloadable-logos" target="_blank" rel="noopener">college logos</a> are available online.</p>
+        <p>Contact:<br>
+          Kari Nugent<br>
+          Director of marketing and public relations<br>
+          815-802-8256<br>
+          <a href="mailto:knugent@kcc.edu">knugent@kcc.edu</a></p>
+      </div>
+      {% endif %}
     </div>
   </div>
-</main>
+</div>
