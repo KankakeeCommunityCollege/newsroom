@@ -30,7 +30,7 @@ KCC's agriculture and horticulture degrees and certificates:
   * [Horticulture](https://catalog.kcc.edu/agri-hort/certificate/horticulture)
   * [Local Foods](https://catalog.kcc.edu/agri-hort/certificate/local-foods)
 
-To learn more about the program, contact Katelynn Ohrt (pictured below), program director, at kohrt@kcc.edu or 815-802-8859.
+To learn more about the program, contact Katelynn Ohrt (pictured below), program director, at [kohrt@kcc.edu](mailto:kohrt@kcc.edu "kohrt@kcc.edu"){: target="_blank" rel="noopener"} or 815-802-8859.
 
 The Progress Awards are sponsored by the Kankakee County Chamber of Commerce and The Daily Journal.
 
