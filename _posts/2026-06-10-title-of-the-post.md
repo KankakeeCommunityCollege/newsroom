@@ -34,4 +34,4 @@ To learn more about the program, contact Katelynn Ohrt (pictured below), program
 
 The Progress Awards are sponsored by the Kankakee County Chamber of Commerce and The Daily Journal.
 
-![Katelynn Ohrt hold the Progress Award](/uploads/2023/katelynn-ohrt-kcc-with-progress-2026-innovation-in-agriculture-award280x420.jpg "Katelynn Ohrt"){: width="280" height="420"}
+![Katelynn Ohrt holds the Progress Award](/uploads/2023/katelynn-ohrt-kcc-with-progress-2026-innovation-in-agriculture-award280x420.jpg "Katelynn Ohrt"){: width="280" height="420"}
