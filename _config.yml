@@ -316,6 +316,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
         href: 'https://www.kcc.edu/community/wheels/'
       - text: Giving
         href: 'https://www.kcc.edu/foundation/'
+      - text: 'CEJA Workforce Hub'
+        href: 'https://www.kcc.edu/community/ceja/'
 ## About KCC ##
   - link_text: About KCC
     link_href: 'https://www.kcc.edu/about/'
