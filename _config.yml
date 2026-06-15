@@ -266,7 +266,7 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
       - text: 'Center for Equity, Diversity & Inclusion'
         href: 'https://www.kcc.edu/student-resources/edi/'
       - text: Fitness Center
-        href: 'https://athletics.kcc.edu/facilities/fitness-center/'
+        href: 'https://www.kcc.edu/student-resources/fitness-center/'
       - text: Advising
         href: 'https://www.kcc.edu/student-resources/advising/'
       - text: Transfer Services
