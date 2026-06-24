@@ -17,7 +17,7 @@ Students in the CNA course learn the role of the nursing assistant and learn to 
 
 For more information, complete a request form at [healthcareers.kcc.edu](https://healthcareers.kcc.edu "https://healthcareers.kcc.edu"){: target="_blank" rel="noopener"}, or visit KCC to meet an advisor. KCC is located at 100 College Drive in Kankakee.
 
-Students who complete the CNA course receive a certification from KCC.
+Students who complete the CNA course receive a certification from KCC and are qualified to take the state of Illinois Nurse Aide Competency Exam.
 
 ## Three programs which require the CNA course:
 {: .typography__h1}
