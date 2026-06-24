@@ -3,7 +3,7 @@ title: New afternoon/evening CNA class
 date: 2026-06-24 15:01:00 -0500
 expire_date: 2026-08-16 00:00:00 -0500
 image: /uploads/2023/cna-nurse-image.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: School books with a stethescope and letters CNA on top.
 article_lead: Be job-ready in 16 weeks!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
