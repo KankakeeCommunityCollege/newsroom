@@ -1,6 +1,6 @@
 ---
 title: New afternoon/evening CNA class
-date: 2026-06-24 15:01:00 -0500
+date: 2026-06-24 08:01:00 -0500
 expire_date: 2026-08-16 00:00:00 -0500
 image: /uploads/2023/cna-nurse-image.jpg
 news_image_alt: School books with a stethescope and letters CNA on top.
