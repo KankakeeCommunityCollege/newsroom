@@ -1,5 +1,5 @@
 ---
-title: Alumnus John Keigher honored for achievements
+title: John Keigher has impacted KCC & beyond
 date: 2026-07-13 11:51:49 -0500
 expire_date: 2026-12-31 00:00:00 -0600
 image: /uploads/2026/johnkeigher-580x750.jpg
@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Following a career defined by executive leadership, entrepreneurial success, and unwavering commitment to servant leadership, John Keigher has been named the 2026 John M. Fulton Distinguished Alumni Award recipient by the Kankakee Community College Foundation.
+Following a career defined by executive leadership, entrepreneurial success, and unwavering commitment to servant leadership, John Keigher has been named the 2026 John M. Fulton Distinguished Alumni Award recipient by the [KCC Foundation](https://www.kcc.edu/foundation/alumni/distinguished-alumni-award/ "KCC Foundation"){: target="_blank" rel="noopener"}.
 
 ![John Keigher, recipient of the 2026 John M. Fulton Distinguished Alumni Award](/uploads/2026/johnkeigher-450x300.jpg "John Keigher, recipient of the 2026 John M. Fulton Distinguished Alumni Award"){: width="450" height="300"}
 {: .center-this-text}
