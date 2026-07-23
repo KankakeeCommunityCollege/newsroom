@@ -10,7 +10,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Carpet replacement is happening throughout the Health Careers Center for Excellence (Building R) from July 27 through July 30.
+Carpet will be replaced throughout the Health Careers Center for Excellence (Building R) from July 27 through July 30.
 
 * All hallways in the building will be recarpeted. Access will be restricted periodically as work progresses.
 * If possible, please avoid walking through Building R. To avoid the north-south hallway, using the sidewalk outside is recommended when weather permits.
