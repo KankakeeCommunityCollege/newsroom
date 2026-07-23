@@ -1,7 +1,7 @@
 ---
 title: Carpet replacement in Building R
 date: 2026-07-23 08:34:08 -0500
-expire_date: 2026-07-23 08:34:08 -0500
+expire_date: 2026-07-31 00:00:00 -0500
 image: >-
   /uploads/2023/i-informaiton-sign-pexels-aleksei-pribolovski-258450633-29057254-580x672.jpg
 news_image_alt: Information sign
