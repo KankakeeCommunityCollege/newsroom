@@ -13,6 +13,6 @@ press_release: false
 Carpet will be replaced throughout the Health Careers Center for Excellence (Building M) from July 27 through July 30.
 
 * All hallways in the building will be recarpeted. Access will be restricted periodically as work progresses.
-* If possible, please avoid walking through Building R. To avoid the north-south hallway, using the sidewalk outside is recommended when weather permits.
+* If possible, please avoid walking through Building M. To avoid the north-south hallway, using the sidewalk outside is recommended when weather permits.
 
 Thank you for your patience and cooperation as we refresh our facilities!
