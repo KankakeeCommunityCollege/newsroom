@@ -1,7 +1,7 @@
 ---
 title: College and Transfer Fair on Sept. 22
 date: 2026-08-17 13:21:17 -0500
-expire_date: 2026-08-17 13:21:17 -0500
+expire_date: 2026-09-22 00:00:00 -0500
 image: /uploads/2023/collegefair-580x700.png
 news_image_alt: College Fair at KCC on Sept. 22
 article_lead: Explore degree and transfer options
