@@ -1,5 +1,5 @@
 ---
-title: College and Transfer Fair on Sept. 22
+title: 2 college fairs at KCC on Sept. 22
 date: 2026-08-17 13:21:17 -0500
 expire_date: 2026-09-22 00:00:00 -0500
 image: /uploads/2023/collegefair-580x700.png
@@ -12,9 +12,11 @@ press_release: false
 ![Graphic of a college campus with the text &quot;College Fair&quot;](/uploads/2023/collegefair-450x340.png "Graphic of a college campus with the text &quot;College Fair&quot;"){: width="450" height="340"}
 {: .center-this-text}
 
-Kankakee Community College will host a College and Transfer Fair from 6-7:30 p.m. Tuesday, Sept. 22.
+On Tuesday, Sept. 22, Kankakee Community College will host a daytime Transfer Fair and an evening Area-wide College Fair.
 
-More than 50 public and private colleges and universities are expected to attend the event to share information with prospective students and their families. Current college students, high school students and the public are invited.
+The[Transfer Fair](https://tockify.com/kankakeecc/detail/2165/1790092800000 "Transfer Fair"){: target="_blank" rel="noopener"} will be from 11 a.m.-1 p.m. in the College Center. The [Area-wide College Fair](https://tockify.com/kankakeecc/detail/2243/1790118000000 "Area-wide College Fair"){: target="_blank" rel="noopener"}will be from 6-7:30 p.m. Tuesday, Sept. 22.
+
+More than 50 public and private colleges and universities are expected to attend the events to share information with prospective students and their families. Current college students, high school students and the public are invited.
 
 In addition to visiting four-year institutions, participants can stop by KCC’s booth to explore local degree, certificate, and transfer options. KCC will also have information on the FAFSA and the financial aid process.
 
@@ -24,4 +26,4 @@ Illinois private colleges and universities expected to attend include: Augustana
 
 Out-of-state universities expected to attend include: Ball State University, Muncie, Ind.; Ferris State University, Big Rapids, Mich.; Franklin University, Columbus, Ohio; Grand Canyon University, Phoenix, Ariz.; Indiana Wesleyan University, Marion, Ind.; Purdue University, West Lafayette, Ind.; Purdue University Calumet, Hammond, Ind.; Saint Mary’s College, Notre Dame, Ind.; Taylor University, Fort Wayne, Ind.; University of Wisconsin, Platteville; and Wilberforce University, Wilberforce, Ohio.
 
-The event will be held in the KCC College Center, inside the main entrance. KCC is located at 100 College Drive, Kankakee.
+The events will be held in the KCC College Center, inside the main entrance. KCC is located at 100 College Drive, Kankakee.
