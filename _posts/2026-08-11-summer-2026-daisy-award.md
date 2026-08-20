@@ -22,9 +22,9 @@ A former patient nominated Vaughn, a Bourbonnais resident.
 
 “The time he spent with me truly made a difference in my day and positively impacted my hospital experience. I only wish he could have remained my nurse for the rest of the day. His dedication and genuine concern for his patients are qualities that will make him an exceptional nurse.”
 
-A committee at KCC chose Vaughn and he received the award on July 23 at the Practical Nursing pinning ceremony. Vaughn received a certificate, a DAISY Award pin and a sculpture called *A Healer’s Touch*, hand-carved by artists of the Shona Tribe in Zimbabwe.
+A committee at KCC chose Vaughn and he received the award on July 23 at the Practical Nursing pinning ceremony. Vaughn received a certificate, the Kevin S. Witheft Scholarship, a DAISY Award pin and a sculpture called A Healer’s Touch, hand-carved by artists of the Shona Tribe in Zimbabwe.
 
-Vaughn has accepted a full-time position at Miller Healthcare in Kankakee.
+The $500 scholarship, sponsored by the Joyce Witheft family, recognizes future nurses whose exceptional care and compassion go beyond expectations.
 
 KCC’s [Practical Nursing program](https://www.kcc.edu/academics/programs/medical-professions/practical-nursing-advanced-certificate/) has a competitive entry process and accepts new students each fall semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices. LPNs also can apply for advanced placement into KCC’s registered nursing program.
 
