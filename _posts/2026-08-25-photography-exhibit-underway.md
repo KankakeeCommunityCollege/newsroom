@@ -24,7 +24,7 @@ Jurevich is owner and photographer for Image Group Photography, LLC, which he fo
 The exhibit is open during library hours until Sept. 25:
 
 * 7:30 a.m.-7 p.m. Mondays and Tuesdays;
-* 7:30 a.m.-7 p.m. Wednesdays and Thursdays; and
-* 7:30 a.m.-7 p.m. Fridays.
+* 7:30 a.m.-5 p.m. Wednesdays and Thursdays; and
+* 7:30 a.m.-3 p.m. Fridays.
 
 KCC is located at 100 College Drive in Kankakee.
