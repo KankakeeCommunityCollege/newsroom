@@ -9,6 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+![KCC Cavalier interacting with Kids](/uploads/2023/cavalier342x195.jpg "Cavalier and kids Summer 2026"){: width="342" height="195"}
+
 KCC is hosting tryouts for the role of the Cavalier mascot on Tuesday, Sept. 22 from 11 a.m.-1 p.m. in the KCC Gymnasium.
 
 The selected student mascot will represent KCC at athletic games, student events, campus celebrations, and community functions. The complete job description and list of qualifications is online. To review, go to [KCC's student job openings page](https://www.schooljobs.com/careers/kankakeecc/transferjobs "https://www.schooljobs.com/careers/kankakeecc/transferjobs"){: target="_blank" rel="noopener"} and find the mascot description.
@@ -37,3 +39,5 @@ Students unable to attend the live tryouts can submit a video application to [st
 ## Questions?
 
 Anyone with questions can contact Maurice Sullivan, coordinator of student life & development at [msullivan@kcc.edu](mailto:msullivan@kcc.edu "msullivan@kcc.edu"){: target="_blank" rel="noopener"} or phone 815-802-8628.
+
+![Cavalier and student with both doing 'thumbs up'](/uploads/2023/cavalier-and-lathan-betourne257x211.jpg "Cavalier and student thumbs up Summer 2026"){: width="257" height="211"}
