@@ -1,7 +1,7 @@
 ---
 title: Photography exhibit underway
 date: 2026-08-25 09:02:54 -0500
-expire_date: 2026-08-25 09:02:54 -0500
+expire_date: 2026-09-25 00:00:00 -0500
 image: /uploads/2023/annie432x580.png
 news_image_alt: Bill Jurevich photo "Annie" 1995
 article_lead: Jurevich gallery talk Sept. 2
