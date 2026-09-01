@@ -13,11 +13,11 @@ press_release: false
 
 This is a message from KCC’s Culture of Caring Committee:
 
-Connection, belonging, and community begin when people feel seen, heard, and valued.
+**Connection**, **belonging** and **community** begin when people feel seen, heard, and valued.
 
 A simple hello, a remembered name, a meaningful conversation, or an invitation can change someone’s experience. KCC invites you to be part of a college where every person knows they matter and every interaction strengthens our community.
 
-Every connection starts with a greeting. Names matter.
+**Every connection starts with a greeting. Names matter.**
 
 Here’s the challenge: Commit to saying hello to at least five people each day whom you may not normally interact with. Each week, make an effort to learn and remember the name of one new person.
 
