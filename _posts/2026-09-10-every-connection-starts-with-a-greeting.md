@@ -3,7 +3,7 @@ title: Every connection starts with a greeting
 date: 2026-08-28T08:47:00-05:00
 expire_date: 2026-09-30T00:00:00-05:00
 image: /uploads/2023/students-waving419x559.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Two students waving hello
 article_lead: Hello!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
