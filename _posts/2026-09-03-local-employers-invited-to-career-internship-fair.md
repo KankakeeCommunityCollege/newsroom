@@ -16,7 +16,7 @@ Kankakee Community College will sponsor a Career & Internship Fair from 10 a.m.-
 
 Booths are available, free of charge, for area businesses to participate. The reservation deadline is Friday, Oct. 2. Employers can register at [www.kcc.edu/jobfair](http://www.kcc.edu/jobfair).
 
-“The best career opportunities often start with a conversation,” said Cydney Boyd, coordinator of career services at KCC. “Our Career & Internship Fair gives employers a chance to connect with emerging talent while helping students, alumni, and community members explore careers, expand their professional networks, and discover new opportunities. We're excited to bring everyone together for an event focused on connection, exploration, and growth.”
+“The best career opportunities often start with a conversation,” said Cydney Boyd, coordinator of career services at KCC. “Our Career & Internship Fair gives employers a chance to connect with emerging talent while helping students, alumni, and community members explore careers, expand their professional networks, and discover new opportunities. We’re excited to bring everyone together for an event focused on connection, exploration, and growth.”
 
 The Job Fair is sponsored by KCC’s Charlton Family Foundation Career Services Center.
 
