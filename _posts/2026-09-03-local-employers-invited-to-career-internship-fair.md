@@ -1,15 +1,16 @@
 ---
-title: Local employers invited to Career & Internship Fair
+title: Local employers invited to Career Fair
 date: 2026-09-03T14:14:20-05:00
 expire_date: 2026-10-07T00:00:00-05:00
-image: /uploads/2023/jobfair2025-580x625.jpg
-news_image_alt: Silhouette of business people
-article_lead: Hiring event Oct. 7
+image: /uploads/2023/career-image2026-399x583.jpg
+news_image_alt: People in careers such as horticulture, construction, health
+  careers and welding
+article_lead: Booth reservation deadline is Oct. 2
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Silhouette of business people](/uploads/2023/jobfair2025-580x501.jpg "Silhouette of business people"){: width="580" height="501"}
+![People in various careers](/uploads/2023/career-image-320x182.jpg "Career Image"){: width="320" height="182"}
 {: .center-this-text}
 
 Kankakee Community College will sponsor a Career & Internship Fair from 10 a.m.-1 p.m. on Wednesday, Oct. 7.
