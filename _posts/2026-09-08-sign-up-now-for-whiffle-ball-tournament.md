@@ -1,7 +1,7 @@
 ---
 title: Sign-up now for Whiffle Ball® Tournament
-date: 2026-09-08T12:59:26-05:00
-expire_date: 2026-09-08T12:59:26-05:00
+date: 2026-09-08T12:59:00-05:00
+expire_date: 2026-09-26T00:00:00-05:00
 image: /uploads/2023/whiffle-ball-bat330x580.jpg
 news_image_alt: Whiffle ball® and bat
 article_lead: Plan for an afternoon of fun Sept. 25
