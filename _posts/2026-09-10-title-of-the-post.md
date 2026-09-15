@@ -1,22 +1,26 @@
 ---
-title: Title of the post
-date: 2026-09-10 14:37:00 -0500
-expire_date: 2026-09-25 00:00:00 -0500
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
-news_image_alt: Add descriptive text for the post's image
-article_lead: A short lead for the article
+title: Cavalier mascot tryouts!
+date: 2026-08-25 02:37:00 -0500
+expire_date: 2026-09-23 00:00:00 -0500
+image: /uploads/2023/cavalier371x501.jpg
+news_image_alt: KCC Cavalier
+article_lead: Show your school spirit
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-KCC will hold auditions for the role of the Cavalier mascot on Tuesday, Sept. 22 from 11 a.m.-1 p.m. in the KCC Gymnasium.
+![KCC Cavalier interacting with Kids](/uploads/2023/cavalier342x195.jpg "Cavalier and kids Summer 2026"){: width="342" height="195"}
 
-The selected student mascot will represent KCC at athletic games, student events, campus celebrations, and community functions.
+KCC is hosting tryouts for the role of the Cavalier mascot on Tuesday, Sept. 22 from 11 a.m.-1 p.m. in the KCC Gymnasium.
 
-# **Audition Requirements & Format**
+The selected student mascot will represent KCC at athletic games, student events, campus celebrations, and community functions. The complete job description and list of qualifications is online. To review, go to [KCC's student job openings page](https://www.schooljobs.com/careers/kankakeecc/transferjobs "https://www.schooljobs.com/careers/kankakeecc/transferjobs"){: target="_blank" rel="noopener"} and find the mascot description.
+
+![Cavalier and student with both doing 'thumbs up'](/uploads/2023/cavalier-and-lathan-betourne257x211.jpg "Cavalier and student thumbs up Summer 2026"){: width="257" height="211"}
+
+# **Audition requirements & format**
 {: .typography__h2}
 
-Candidates will complete practical performance evaluations, including freestyle dance, crowd engagement, improvisation, and silent pantomime. Applicants may also be asked to test the mascot head to assess fit, visibility, and physical mobility.
+Candidates will complete practical performance evaluations, including freestyle dance, crowd engagement, improvisation, and silent pantomime. Applicants might also be asked to test the mascot head to assess fit, visibility, and physical mobility.
 
 In-person participants must bring:
 
@@ -24,14 +28,20 @@ In-person participants must bring:
 * List of semester commitments (work, athletics, and personal)
 * Athletic attire and appropriate footwear
 
+&nbsp;
+
 # **Video Submissions**
 {: .typography__h2}
 
-Students unable to attend the live audition may submit a video application to [studentlife@kcc.edu](mailto:studentlife@kcc.edu%20 "studentlife@kcc.edu"){: target="_blank" rel="noopener"}by Sept. 20, 2026. Use the email subject line "KCC Mascot Audition – \[Full Name\]." Submissions must include:
+Students unable to attend the live tryouts can submit a video application to [studentlife@kcc.edu](mailto:studentlife@kcc.edu%20 "studentlife@kcc.edu"){: target="_blank" rel="noopener"} by Sept. 20, 2026. Use the email subject line “KCC Mascot Audition – \[Full Name\].” Submissions must include:
 
 * Brief out-of-costume personal introduction
 * 30–60 second crowd hype performance
 * Freestyle dance demonstration
 * Non-verbal pantomime or improvisation scenario
 
-A complete list of qualifications is in the mascot job description, which is posted on KCC's Human Resources page.
+## Questions?
+
+Anyone with questions can contact Maurice Sullivan, coordinator of student life & development at [msullivan@kcc.edu](mailto:msullivan@kcc.edu "msullivan@kcc.edu"){: target="_blank" rel="noopener"} or phone 815-802-8628.
+
+&nbsp;
