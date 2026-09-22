@@ -11,7 +11,7 @@ press_release: false
 ---
 &nbsp;
 
-KCC’s Police and Public Safety Department has added links to three brief training videos on the [Campus Safety](https://www.kcc.edu/safety "Campus Safety website") website.
+KCC’s Police and Public Safety Department has added links to three brief training videos on the [Campus Safety](https://www.kcc.edu/about/police-and-safety/#campus-safety "Campus Safety website") website.
 
 The videos are YouTube® links, and available to all students, staff, and community members:
 
