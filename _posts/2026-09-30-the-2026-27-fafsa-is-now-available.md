@@ -2,9 +2,10 @@
 title: The 2026-27 FAFSA is now available!
 date: 2026-09-30T14:26:00-05:00
 expire_date: 2026-12-24T00:00:00-06:00
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
-news_image_alt: Add descriptive text for the post's image
-article_lead: A short lead for the article
+image: /uploads/2023/fafsaearlybird-580x700.jpg
+news_image_alt: Graphic of a bird with the text "The early bird gets the $$$" -
+  FAFSA now available.
+article_lead: Be an early bird! Apply now for federal aid
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
