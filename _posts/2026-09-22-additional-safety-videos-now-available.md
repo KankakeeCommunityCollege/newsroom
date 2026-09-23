@@ -1,8 +1,8 @@
 ---
 title: Additional safety videos now available
-date: 2026-09-22T13:09:17-05:00
-expire_date: 2026-09-22T13:09:17-05:00
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+date: 2026-09-22T13:09:00-05:00
+expire_date: 2026-11-27T00:00:00-06:00
+image: /uploads/2023/warning-tape-danger-stop480x540.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Campus Safety site has training opportunities
 video_content: false
@@ -10,6 +10,8 @@ video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
 &nbsp;
+
+![Warning tape which says Warning, Danger and Stop](/uploads/2023/set-of-warning-tapes260x186.png "Set of Warning tapes"){: width="260" height="186"}
 
 KCC’s Police and Public Safety Department has added links to three brief training videos on the [Campus Safety](https://www.kcc.edu/about/police-and-safety/#campus-safety "Campus Safety website") website.
 
