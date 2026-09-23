@@ -1,0 +1,34 @@
+---
+title: The 2026-27 FAFSA is now available!
+date: 2026-09-30T14:26:00-05:00
+expire_date: 2026-12-24T00:00:00-06:00
+image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+news_image_alt: Add descriptive text for the post's image
+article_lead: A short lead for the article
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+#
+{: .typography__h1}
+
+**P**
+
+&nbsp;
+
+The form to apply for financial aid is now available.
+
+The new Free Application for Federal Student Aid is for anyone enrolling in college courses from Fall 2026 through Summer 2027. Some funds are awarded on a first-come, first-served basis, so students are encouraged to apply early.
+
+&nbsp;
+
+![A graphic of a bird with the text &quot;The early bird gets the $$$$ - FAFSA now available&quot;](https://news.kcc.edu/uploads/2023/fafsaearlybird-400x225-1.jpg){: width="400" height="225"}
+{: .center-this-text}
+
+KCC’s Office of Financial Aid is available to help students understand how to pay for college with various types of aid.
+
+All students and parents are welcome to attend an upcoming financial aid workshop. Information and assistance with the Alternative Application for Financial Aid for non-U.S. citizens will also be available.
+
+Information on times, dates and locations for the upcoming workshops is at [www.kcc.edu/finaidworkshops](http://www.kcc.edu/finaidworkshops).
+
+Assistance is also available at KCC's Office of Financial Aid Monday-Friday, 8 a.m.-5 p.m., by phone atl 815-802-8550, or email [finaid@kcc.edu](mailto:finaid@kcc.edu).
