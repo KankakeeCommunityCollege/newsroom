@@ -1,0 +1,23 @@
+---
+title: Storm show includes KCC footage
+date: 2026-09-24T13:33:01-05:00
+expire_date: 2026-12-31T00:00:00-06:00
+image: /uploads/2023/kcctornado-580x719.jpg
+news_image_alt: A tornado is seen behind the Ice Valley Centre near KCC in March 2026
+article_lead: Episode airs Sunday, Oct. 4
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+KCC will make a small but exciting appearance on the national stage this fall.
+
+![Footage of a tornado on March 10, 2026 seen with KCC surveillance camera](/uploads/2023/kcctornado-550x410.jpg "Footage of a tornado on March 10, 2026 seen with KCC surveillance camera"){: width="550" height="410"}
+{: .center-this-text}
+
+Footage from KCC’s campus security cameras, provided to the producers following the March 2026 tornadoes in Michigan and Illinois, will be featured in an upcoming documentary exploring the storms and their impact.
+
+The episode of [In The Eye Of The Storm](https://www.discovery.com/shows/in-the-eye-of-the-storm){: target="_blank" rel="noopener"} "Three Rivers, Four Tornadoes" will air on the Discovery® network **Sunday, Oct. 4, at 9 p.m. CDT.** It will be rebroadcast at various times afterward, and will also be available beginning Monday, Oct. 5, on Discovery+® and HBO Max®.
+
+So, if you happen to see some familiar KCC footage while watching a national documentary about the March tornadoes, you’ll know why!
+
+The producers expressed their appreciation to KCC for helping provide the footage in the episode. Promotional trailers and other related material may also appear on Discovery and its streaming platforms in advance of the broadcast.
