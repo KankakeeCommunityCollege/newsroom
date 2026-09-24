@@ -4,7 +4,7 @@ date: 2026-09-24T13:33:01-05:00
 expire_date: 2026-12-31T00:00:00-06:00
 image: /uploads/2023/kcctornado-580x719.jpg
 news_image_alt: Add descriptive text for the post's image
-article_lead: Episode airs Oct. 4
+article_lead: Episode on Oct. 4
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
