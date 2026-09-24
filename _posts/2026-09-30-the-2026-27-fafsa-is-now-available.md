@@ -1,6 +1,6 @@
 ---
 title: The 2026-27 FAFSA is now available!
-date: 2026-09-30T14:26:00-05:00
+date: 2026-09-24T14:26:00-05:00
 expire_date: 2026-12-24T00:00:00-06:00
 image: /uploads/2023/fafsaearlybird-580x700.jpg
 news_image_alt: Graphic of a bird with the text "The early bird gets the $$$" -
