@@ -2,7 +2,7 @@
 title: Fall Explore KCC Days
 date: 2026-09-24T14:01:50-05:00
 expire_date: 2026-11-12T00:00:00-06:00
-image: /uploads/2023/explorekccdayfa26-580x870.jpg
+image: /uploads/2023/explorekccdayfa26-580x725.jpg
 news_image_alt: KCC student with text "Explore KCC Day"
 article_lead: Tours and information available
 video_content: false
