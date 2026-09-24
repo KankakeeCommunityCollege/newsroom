@@ -1,5 +1,5 @@
 ---
-title: KCC Footage to Appear in Storm Documentary
+title: Storm Documentary to Feature KCC Footage
 date: 2026-09-24T13:33:01-05:00
 expire_date: 2026-12-31T00:00:00-06:00
 image: /uploads/2023/kcctornado-580x719.jpg
