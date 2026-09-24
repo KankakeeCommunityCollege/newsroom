@@ -10,16 +10,12 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-#
+\#
 {: .typography__h1}
-
-**P**
-
-&nbsp;
 
 The form to apply for financial aid is now available.
 
-The new Free Application for Federal Student Aid is for anyone enrolling in college courses from Fall 2026 through Summer 2027. Some funds are awarded on a first-come, first-served basis, so students are encouraged to apply early.
+The new [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa "Free Application for Federal Student Aid"){: target="_blank" rel="noopener"} is for anyone enrolling in college courses from Fall 2027 through Summer 2028. Some funds are awarded on a first-come, first-served basis, so students are encouraged to apply early.
 
 &nbsp;
 
@@ -32,4 +28,4 @@ All students and parents are welcome to attend an upcoming financial aid worksho
 
 Information on times, dates and locations for the upcoming workshops is at [www.kcc.edu/finaidworkshops](http://www.kcc.edu/finaidworkshops).
 
-Assistance is also available at KCC's Office of Financial Aid Monday-Friday, 8 a.m.-5 p.m., by phone atl 815-802-8550, or email [finaid@kcc.edu](mailto:finaid@kcc.edu).
+Assistance is also available at KCC’s Office of Financial Aid Monday-Friday, 8 a.m.-5 p.m., by phone at 815-802-8550, or email [finaid@kcc.edu](mailto:finaid@kcc.edu).
