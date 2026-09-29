@@ -406,6 +406,35 @@ exclude:
 
 uploads_dir: "/uploads/2023"
 
+_inputs:
+  homepage:
+    hidden: true
+  schema_json_partial:
+    hidden: true
+  layout:
+    hidden: true
+  baseurl:
+    hidden: true
+  social_title:
+    type: text
+    label: Custom Social Title
+    comment: "Overrides the page title when shared on Facebook, X, LinkedIn, etc."
+  social_description:
+    type: textarea
+    label: Custom Social Description
+    comment: "Overrides the standard page description for social sharing cards."
+  social_image:
+    type: image
+    label: Social Sharing Image
+    comment: "Upload a custom 1200x630px image for social media previews."
+    context:
+      open: false
+      title: Social Image Help
+      icon: help
+      content: |-
+        Ideal image size is 1200×630px.
+        Keep logos and text inside a 100px inner margin to avoid mobile cropping.
+
 _comments:
   layout: Do NOT modify layouts. It may break things.
   baseurl: Do NOT modify baseurl. It WILL break all page links.
