@@ -14,6 +14,9 @@
     {%- if site.canonical_baseurl %}
     <link rel="canonical" href="{% if page.url == '/' %}{{ site.canonical_baseurl }}{% else %}{{ site.canonical_baseurl }}{{ page.url }}{% endif %}">
     {%- endif %}
+    {% unless page.layout == 'post' %}
+    {% include social-media-meta-data.html %}
+    {% endunless %}
     <!-- Standard Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
   {% if page.url == '/' %}
@@ -24,4 +27,6 @@
     {% endfor %}
   {% endif %}
     {% include preconnect.html %}
+    {% if page.layout == 'post' %}
     {% include social-meta.html %}
+    {% endif %}

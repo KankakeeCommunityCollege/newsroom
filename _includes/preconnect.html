@@ -9,8 +9,9 @@
     <!-- GCS -->
     <link rel="preconnect" href="https://clients1.google.com">
     <link rel="preconnect" href="https://www.google.com">
-    <!-- google api used for Sheet api (for alerts) -->
-    <link rel="preconnect" href="https://apis.google.com/js/api.js">
+    {%- if page.include_gapi -%}
+    <!-- google api used for Sheet api -->
+    <link rel="preconnect" href="https://apis.google.com/js/api.js">{% endif %}
     <!-- Bootstrap 5 styles (only used components/utilities)  -->
     <link rel="preload" as="style" href="{{page.baseurl}}assets/js/dist/bootstrap.{% include hash/theme_hash.yml %}.css">
     <link rel="preload" as="style" href="{{ page.baseurl }}assets/js/dist/kcc-theme.{% include hash/theme_hash.yml %}.css">
