@@ -19,11 +19,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
   - link_text: Academics # @link_text becomes the main navigational categories
     link_href: 'https://www.kcc.edu/academics/'
     image: # The image element built into each dropdown menu
-      source: 'assets/img/menu-academics.jpg' # Points to the image file
-      # YOU ALWAYS NEED ALT TEXT!!!
-      alt: >-
-        Student in an electrical technology lab standing 
-        in front of electrical equipment mounted to a wall
+      source: 'assets/img/mega-menu_academics.jpg' # Points to the image file
+      alt: ""
     button:
       text: 'Explore Academic Pathways'
       href: 'https://www.kcc.edu/academics/'
@@ -67,8 +64,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
   - link_text:  Admissions
     link_href: 'https://www.kcc.edu/admissions/'
     image:
-      source: 'assets/img/menu-admission.jpg'
-      alt: 'Smiling student inside the KCC main entrance'
+      source: 'assets/img/mega-menu_admissions.jpg'
+      alt: ""
     button:
       text: 'Apply to KCC'
       href: 'https://apply.kcc.edu'
@@ -145,11 +142,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
   - link_text: Student Resources
     link_href: 'https://www.kcc.edu/student-resources/'
     image:
-      source: 'assets/img/menu-student-resources.jpg'
-      alt: >-
-        KCC Veteran Services staff from left-to-right; 
-        Kendra Souligne, Hassel Hernandez, Jason Rodriguez, 
-        and Megan Ponton.
+      source: 'assets/img/mega-menu_student-resources.jpg'
+      alt: ""
     button:
       text: 'Get Student Support'
       href: 'https://www.kcc.edu/student-resources/support-resources/'
@@ -201,8 +195,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
   - link_text: Community
     link_href: 'https://www.kcc.edu/community/'
     image:
-      source: 'assets/img/menu-community.jpg'
-      alt: 'The Criminal Justice Club posing on the metal sculpture in front of the KCC main entrance'
+      source: 'assets/img/mega-menu_community.jpg'
+      alt: ""
     button:
       text: Explore Community Programs
       href: 'https://www.kcc.edu/community/'
@@ -239,8 +233,8 @@ navigation: ## Add a navigation key to any project using kcc-gem-theme to locall
   - link_text: About KCC
     link_href: 'https://www.kcc.edu/about/'
     image:
-      source: 'assets/img/menu-about-kcc.jpg'
-      alt: 'Two students posing in front of the KCC main entrance'
+      source: 'assets/img/mega-menu_about.jpg'
+      alt: ""
     button:
       text: Learn About KCC
       href: 'https://www.kcc.edu/about/'
