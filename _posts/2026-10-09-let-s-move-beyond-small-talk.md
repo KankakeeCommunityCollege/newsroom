@@ -1,6 +1,6 @@
 ---
 title: Let's move beyond small talk
-date: 2026-10-09T16:26:00-05:00
+date: 2026-10-05T16:26:00-05:00
 expire_date: 2026-12-31T00:00:00-06:00
 image: /uploads/2023/talking-in-nursing-hall-belonging-photo-series.png
 news_image_alt: Three students talking in the Health Careers Hallway
