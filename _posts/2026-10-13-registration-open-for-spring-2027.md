@@ -1,5 +1,5 @@
 ---
-title: Registration open for Spring 2027
+title: Registration is open for Spring 2027
 date: 2026-10-13T10:48:06-05:00
 expire_date: 2027-01-11T00:00:00-06:00
 image: /uploads/2023/kcccampus-580x700.jpg
