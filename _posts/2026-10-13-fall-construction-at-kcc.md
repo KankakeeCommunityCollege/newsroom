@@ -13,8 +13,8 @@ A tuckpointing and facade repair project will take place on KCC’s Riverfront C
 
 Repairs to fix roof damage caused during the severe weather in March will also occur this fall.
 
-These projects should be complete by the end of the year. They are important steps in maintaining and improving our campus facilities said Rob Kenney, director of the Campus Operations Department.
+These projects should be complete by the end of the year.
 
-“Both projects are important steps in maintaining and improving our campus facilities,” Kenney said. “Thank you for your flexibility as we work through the temporary inconveniences to make lasting improvements to our buildings.”
+“Both projects are important steps in maintaining and improving our campus facilities,” said Rob Kenney, director of KCC's Campus Operations Department. “Thank you for your flexibility as we work through the temporary inconveniences to make lasting improvements to our buildings.”
 
 &nbsp;
