@@ -10,9 +10,6 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-\#
-{: .typography__h1}
-
 The FAFSA form to apply for financial aid is now available.
 
 The new [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa "Free Application for Federal Student Aid"){: target="_blank" rel="noopener"} is for anyone enrolling in college courses from Fall 2027 through Summer 2028. Some funds are awarded on a first-come, first-served basis, so students are encouraged to apply early.
