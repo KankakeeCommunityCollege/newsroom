@@ -1,5 +1,5 @@
 ---
-title: The 2026-27 FAFSA is now available!
+title: The 2027-28 FAFSA is now available!
 date: 2026-09-24T02:26:00-05:00
 expire_date: 2026-12-24T00:00:00-06:00
 image: /uploads/2023/fafsaearlybird-580x700.jpg
@@ -13,7 +13,7 @@ press_release: false
 \#
 {: .typography__h1}
 
-The form to apply for financial aid is now available.
+The FAFSA form to apply for financial aid is now available.
 
 The new [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa "Free Application for Federal Student Aid"){: target="_blank" rel="noopener"} is for anyone enrolling in college courses from Fall 2027 through Summer 2028. Some funds are awarded on a first-come, first-served basis, so students are encouraged to apply early.
 
