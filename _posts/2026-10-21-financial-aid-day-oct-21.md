@@ -13,9 +13,9 @@ On October 21, colleges and universities across the country recognize Financial 
 
 ![KCC Financial Aid staff](/uploads/2023/financial-adi-staff-10-20-2026-286x224.jpg "KCC Financial Aid staff"){: width="286" height="224"}
 
-KCC's Office of Financial Aid helps students understand their options for paying for college, navigate federal and state financial aid programs, and take the steps needed to pursue their educational and career goals.
+KCC’s Office of Financial Aid helps students understand their options for paying for college, navigate federal and state financial aid programs, and take the steps needed to pursue their educational and career goals.
 
-“Financial aid is much more than an administrative function," said Melanie Storey, president and CEO of the National Association of Student Financial Aid Administrators. "It is an essential part of the student experience and plays a significant role in enrollment, retention, student success and institutional compliance.”
+“Financial aid is much more than an administrative function,” said Melanie Storey, president and CEO of the National Association of Student Financial Aid Administrators. “It is an essential part of the student experience and plays a significant role in enrollment, retention, student success and institutional compliance.”
 
 Financial aid professionals help students and families navigate an often-complex process while responding to changing regulations, policies and systems. Although much of this work happens behind the scenes, its impact can shape a student’s ability to attend college, continue their education and achieve their goals.
 
