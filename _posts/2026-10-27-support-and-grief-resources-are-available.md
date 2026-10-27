@@ -26,4 +26,4 @@ In addition, Uplifted Care offers free grief counseling for the community at the
 
 We recognize that everyone processes loss differently, and there is no right or wrong way to navigate this experience. Whether you need someone to talk to, have questions, or simply want to learn more about available resources, we encourage you to reach out.
 
-Our thoughts are with everyone affected by this loss. We care about our KCC community and encourage you to take care of yourself and one another during this difficult time.
+Our thoughts are with everyone affected by the sudden death of Anne Reilly. We care about our KCC community and encourage you to take care of yourself and one another during this difficult time.
