@@ -19,9 +19,6 @@ Here are some activities that can foster connections and inclusion:
 * Intentionally include others in conversations.
 * Invite someone new to join a group or activity.
 * Introduce people to one another.
-* Participate in Conversation Bingo:
-* Employee version at Learnapalooza
-* Faculty/student version in the classroom
 
 By doing this, you aren't just transforming someone else's day—you can deepen your own sense of belonging. When we choose to look up, reach out, and truly see one another, we build a college culture where no one is a stranger.
 
