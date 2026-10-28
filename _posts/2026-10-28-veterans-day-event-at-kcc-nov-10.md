@@ -1,7 +1,7 @@
 ---
 title: Veterans Day event at KCC Nov. 10
 date: 2026-10-28T10:41:00-05:00
-expire_date: 2026-11-14T00:00:00-06:00
+expire_date: 2026-11-11T00:00:00-06:00
 image: /uploads/2023/veteransday2024-580x775.jpg
 news_image_alt: A photo of the American flag
 article_lead: Thank you, Veterans!
@@ -9,8 +9,6 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-**Editor’s note:** Members of the media are invited to attend the event. Photographs will be welcome.
-
 On Tuesday, Nov. 10, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.
 
 The day will begin with a reception from 11:30 a.m. - 1 p.m. in the KCC Cavalier Room, on the first floor near the College Center. A ceremony honoring veterans will be at 1 p.m. in the KCC Auditorium, Room L110. The public is invited.
