@@ -24,6 +24,8 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
+          # Exclude patch version so that CloudCannon can use supported version in .ruby-version while this action can use the latest patch.
+          ## ubuntu-latest only allows the latest patch versions so older CloudCannon supported versions will error out.
           ruby-version: '4.0'
           bundler-cache: true # Caches installed gems for faster builds
 
