@@ -2,7 +2,7 @@
 title: Plastics with Purpose collection drive
 date: 2026-11-19T10:29:27-06:00
 expire_date: 2027-06-30T00:00:00-05:00
-image: /uploads/2023/plasticswithpurpose-580x838.jpg
+image: /uploads/2023/plasticswithpurpose-580x829.jpg
 news_image_alt: Logo for Plastics with Purpose organization
 article_lead: Help make a difference
 video_content: false
