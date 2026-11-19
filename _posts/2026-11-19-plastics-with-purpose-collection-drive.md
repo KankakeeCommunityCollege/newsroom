@@ -4,7 +4,7 @@ date: 2026-11-19T10:29:27-06:00
 expire_date: 2027-06-30T00:00:00-05:00
 image: /uploads/2023/plasticswithpurpose-580x838.jpg
 news_image_alt: Logo for Plastics with Purpose organization
-article_lead: Every contribution makes a difference!
+article_lead: Help make a difference
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
