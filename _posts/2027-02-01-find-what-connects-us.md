@@ -11,7 +11,7 @@ press_release: false
 ---
 This is a message from KCC’s Culture of Caring Committee.
 
-![Two st](/uploads/2023/make-connections-20260928-z91-9893.jpg)
+![Two students outside at KCC](/uploads/2023/make-connections-20260928-z91-9893.jpg "KCC students"){: width="6564" height="4376"}
 
 Let’s create situations where there is common ground and inclusion. Belonging grows when we recognize the experiences we share. Inclusion demonstrates that every person matters and has a place in our community.
 
